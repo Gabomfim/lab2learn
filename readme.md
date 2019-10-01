@@ -1,6 +1,9 @@
 # lab2learn
 Lab environment for Jupyter applications.
 
+VACINAS - JESUS + SILVS
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Gabomfim/lab2learn/master)
+
 
 ## Running these labs
 
