@@ -1,0 +1,3672 @@
+Id;region;vaccine;year;coverage
+1;Global;bcg;1980;15
+2;Global;dtp1;1980;30
+3;Global;dtp3;1980;20
+4;Global;mcv1;1980;16
+5;Global;pol3;1980;21
+6;Global;rcv1;1980;3
+7;Global;bcg;1981;21
+8;Global;dtp1;1981;35
+9;Global;dtp3;1981;23
+10;Global;mcv1;1981;19
+11;Global;pol3;1981;23
+12;Global;rcv1;1981;3
+13;Global;bcg;1982;23
+14;Global;dtp1;1982;38
+15;Global;dtp3;1982;25
+16;Global;mcv1;1982;20
+17;Global;pol3;1982;41
+18;Global;rcv1;1982;4
+19;Global;bcg;1983;36
+20;Global;dtp1;1983;56
+21;Global;dtp3;1983;38
+22;Global;mcv1;1983;37
+23;Global;pol3;1983;43
+24;Global;rcv1;1983;4
+25;Global;bcg;1984;44
+26;Global;dtp1;1984;62
+27;Global;dtp3;1984;45
+28;Global;mcv1;1984;41
+29;Global;pol3;1984;47
+30;Global;rcv1;1984;5
+31;Global;bcg;1985;48
+32;Global;dtp1;1985;67
+33;Global;dtp3;1985;49
+34;Global;hepb3;1985;0
+35;Global;mcv1;1985;47
+36;Global;pol3;1985;52
+37;Global;rcv1;1985;5
+38;Global;bcg;1986;52
+39;Global;dtp1;1986;70
+40;Global;dtp3;1986;52
+41;Global;hepb3;1986;0
+42;Global;mcv1;1986;47
+43;Global;pol3;1986;51
+44;Global;rcv1;1986;5
+45;Global;bcg;1987;61
+46;Global;dtp1;1987;74
+47;Global;dtp3;1987;56
+48;Global;hepb3;1987;0
+49;Global;mcv1;1987;54
+50;Global;pol3;1987;57
+51;Global;rcv1;1987;5
+52;Global;bcg;1988;67
+53;Global;dtp1;1988;79
+54;Global;dtp3;1988;64
+55;Global;hepb3;1988;0
+56;Global;mcv1;1988;63
+57;Global;pol3;1988;65
+58;Global;rcv1;1988;6
+59;Global;bcg;1989;70
+60;Global;dtp1;1989;83
+61;Global;dtp3;1989;68
+62;Global;hepb3;1989;0
+63;Global;mcv1;1989;68
+64;Global;pol3;1989;70
+65;Global;rcv1;1989;7
+66;Global;bcg;1990;81
+67;Global;dtp1;1990;88
+68;Global;dtp3;1990;75
+69;Global;hepb3;1990;1
+70;Global;hib3;1990;0
+71;Global;mcv1;1990;73
+72;Global;pol3;1990;75
+73;Global;rcv1;1990;8
+74;Global;bcg;1991;78
+75;Global;dtp1;1991;86
+76;Global;dtp3;1991;71
+77;Global;hepb3;1991;1
+78;Global;hib3;1991;0
+79;Global;mcv1;1991;69
+80;Global;pol3;1991;72
+81;Global;rcv1;1991;9
+82;Global;bcg;1992;78
+83;Global;dtp1;1992;85
+84;Global;dtp3;1992;70
+85;Global;hepb3;1992;3
+86;Global;hib3;1992;1
+87;Global;mcv1;1992;69
+88;Global;pol3;1992;70
+89;Global;rcv1;1992;9
+90;Global;bcg;1993;79
+91;Global;dtp1;1993;85
+92;Global;dtp3;1993;70
+93;Global;hepb3;1993;4
+94;Global;hib3;1993;1
+95;Global;mcv1;1993;70
+96;Global;pol3;1993;70
+97;Global;rcv1;1993;10
+98;Global;bcg;1994;80
+99;Global;dtp1;1994;86
+100;Global;dtp3;1994;73
+101;Global;hepb3;1994;8
+102;Global;hib3;1994;1
+103;Global;mcv1;1994;71
+104;Global;pol3;1994;73
+105;Global;rcv1;1994;10
+106;Global;bcg;1995;80
+107;Global;dtp1;1995;87
+108;Global;dtp3;1995;73
+109;Global;hepb3;1995;11
+110;Global;hib3;1995;4
+111;Global;mcv1;1995;73
+112;Global;pol3;1995;74
+113;Global;rcv1;1995;12
+114;Global;bcg;1996;80
+115;Global;dtp1;1996;86
+116;Global;dtp3;1996;72
+117;Global;hepb3;1996;13
+118;Global;hib3;1996;5
+119;Global;mcv1;1996;73
+120;Global;pol3;1996;74
+121;Global;rcv1;1996;12
+122;Global;bcg;1997;78
+123;Global;dtp1;1997;86
+124;Global;dtp3;1997;71
+125;Global;hepb3;1997;15
+126;Global;hib3;1997;5
+127;Global;mcv1;1997;71
+128;Global;pol3;1997;74
+129;Global;rcv1;1997;12
+130;Global;yfv;1997;3
+131;Global;bcg;1998;79
+132;Global;dtp1;1998;84
+133;Global;dtp3;1998;72
+134;Global;hepb3;1998;15
+135;Global;hib3;1998;7
+136;Global;mcv1;1998;71
+137;Global;pol3;1998;73
+138;Global;rcv1;1998;15
+139;Global;yfv;1998;9
+140;Global;bcg;1999;80
+141;Global;dtp1;1999;83
+142;Global;dtp3;1999;72
+143;Global;hepb3;1999;18
+144;Global;hib3;1999;8
+145;Global;mcv1;1999;71
+146;Global;pol3;1999;73
+147;Global;rcv1;1999;17
+148;Global;yfv;1999;10
+149;Global;bcg;2000;80
+150;Global;dtp1;2000;83
+151;Global;dtp3;2000;72
+152;Global;hepb3;2000;30
+153;Global;hepbb;2000;5
+154;Global;hib3;2000;13
+155;Global;mcv1;2000;72
+156;Global;mcv2;2000;18
+157;Global;pol3;2000;73
+158;Global;rcv1;2000;21
+159;Global;yfv;2000;11
+160;Global;bcg;2001;80
+161;Global;dtp1;2001;83
+162;Global;dtp3;2001;73
+163;Global;hepb3;2001;32
+164;Global;hepbb;2001;6
+165;Global;hib3;2001;14
+166;Global;mcv1;2001;73
+167;Global;mcv2;2001;19
+168;Global;pol3;2001;73
+169;Global;rcv1;2001;22
+170;Global;yfv;2001;13
+171;Global;bcg;2002;80
+172;Global;dtp1;2002;83
+173;Global;dtp3;2002;73
+174;Global;hepb3;2002;38
+175;Global;hepbb;2002;7
+176;Global;hib3;2002;17
+177;Global;mcv1;2002;72
+178;Global;mcv2;2002;20
+179;Global;pol3;2002;74
+180;Global;rcv1;2002;22
+181;Global;yfv;2002;12
+182;Global;bcg;2003;81
+183;Global;dtp1;2003;84
+184;Global;dtp3;2003;74
+185;Global;hepb3;2003;44
+186;Global;hepbb;2003;9
+187;Global;hib3;2003;18
+188;Global;mcv1;2003;74
+189;Global;mcv2;2003;21
+190;Global;pol3;2003;75
+191;Global;rcv1;2003;22
+192;Global;yfv;2003;17
+193;Global;bcg;2004;83
+194;Global;dtp1;2004;85
+195;Global;dtp3;2004;76
+196;Global;hepb3;2004;49
+197;Global;hepbb;2004;21
+198;Global;hib3;2004;19
+199;Global;mcv1;2004;76
+200;Global;mcv2;2004;22
+201;Global;pol3;2004;76
+202;Global;rcv1;2004;24
+203;Global;yfv;2004;25
+204;Global;bcg;2005;85
+205;Global;dtp1;2005;86
+206;Global;dtp3;2005;77
+207;Global;hepb3;2005;54
+208;Global;hepbb;2005;23
+209;Global;hib3;2005;20
+210;Global;mcv1;2005;77
+211;Global;mcv2;2005;33
+212;Global;pol3;2005;78
+213;Global;rcv1;2005;24
+214;Global;yfv;2005;32
+215;Global;bcg;2006;86
+216;Global;dtp1;2006;87
+217;Global;dtp3;2006;78
+218;Global;hepb3;2006;58
+219;Global;hepbb;2006;23
+220;Global;hib3;2006;21
+221;Global;mcv1;2006;79
+222;Global;mcv2;2006;35
+223;Global;pol3;2006;79
+224;Global;rcv1;2006;26
+225;Global;rotac;2006;1
+226;Global;yfv;2006;36
+227;Global;bcg;2007;87
+228;Global;dtp1;2007;88
+229;Global;dtp3;2007;79
+230;Global;hepb3;2007;63
+231;Global;hepbb;2007;23
+232;Global;hib3;2007;25
+233;Global;mcv1;2007;80
+234;Global;mcv2;2007;36
+235;Global;pol3;2007;80
+236;Global;rcv1;2007;26
+237;Global;rotac;2007;2
+238;Global;yfv;2007;39
+239;Global;bcg;2008;88
+240;Global;dtp1;2008;88
+241;Global;dtp3;2008;81
+242;Global;hepb3;2008;69
+243;Global;hepbb;2008;26
+244;Global;hib3;2008;28
+245;Global;mcv1;2008;81
+246;Global;mcv2;2008;38
+247;Global;pcv3;2008;4
+248;Global;pol3;2008;82
+249;Global;rcv1;2008;25
+250;Global;rotac;2008;4
+251;Global;yfv;2008;38
+252;Global;bcg;2009;89
+253;Global;dtp1;2009;89
+254;Global;dtp3;2009;83
+255;Global;hepb3;2009;73
+256;Global;hepbb;2009;27
+257;Global;hib3;2009;38
+258;Global;mcv1;2009;83
+259;Global;mcv2;2009;41
+260;Global;pcv3;2009;7
+261;Global;pol3;2009;84
+262;Global;rcv1;2009;26
+263;Global;rotac;2009;7
+264;Global;yfv;2009;41
+265;Global;bcg;2010;89
+266;Global;dtp1;2010;89
+267;Global;dtp3;2010;84
+268;Global;hepb3;2010;73
+269;Global;hepbb;2010;28
+270;Global;hib3;2010;40
+271;Global;mcv1;2010;84
+272;Global;mcv2;2010;42
+273;Global;pcv3;2010;11
+274;Global;pol3;2010;84
+275;Global;rcv1;2010;35
+276;Global;rotac;2010;8
+277;Global;yfv;2010;39
+278;Global;bcg;2011;90
+279;Global;dtp1;2011;90
+280;Global;dtp3;2011;85
+281;Global;hepb3;2011;75
+282;Global;hepbb;2011;29
+283;Global;hib3;2011;43
+284;Global;mcv1;2011;85
+285;Global;mcv2;2011;48
+286;Global;pcv3;2011;16
+287;Global;pol3;2011;84
+288;Global;rcv1;2011;38
+289;Global;rotac;2011;9
+290;Global;yfv;2011;36
+291;Global;bcg;2012;89
+292;Global;dtp1;2012;90
+293;Global;dtp3;2012;84
+294;Global;hepb3;2012;80
+295;Global;hepbb;2012;32
+296;Global;hib3;2012;45
+297;Global;mcv1;2012;84
+298;Global;mcv2;2012;51
+299;Global;pcv3;2012;20
+300;Global;pol3;2012;84
+301;Global;rcv1;2012;40
+302;Global;rotac;2012;11
+303;Global;yfv;2012;36
+304;Global;bcg;2013;89
+305;Global;dtp1;2013;89
+306;Global;dtp3;2013;84
+307;Global;hepb3;2013;79
+308;Global;hepbb;2013;35
+309;Global;hib3;2013;51
+310;Global;mcv1;2013;84
+311;Global;mcv2;2013;56
+312;Global;pcv3;2013;26
+313;Global;pol3;2013;84
+314;Global;rcv1;2013;43
+315;Global;rotac;2013;14
+316;Global;yfv;2013;40
+317;Global;bcg;2014;88
+318;Global;dtp1;2014;89
+319;Global;dtp3;2014;84
+320;Global;hepb3;2014;81
+321;Global;hepbb;2014;35
+322;Global;hib3;2014;55
+323;Global;mcv1;2014;84
+324;Global;mcv2;2014;59
+325;Global;pcv3;2014;32
+326;Global;pol3;2014;85
+327;Global;rcv1;2014;45
+328;Global;rotac;2014;19
+329;Global;yfv;2014;43
+330;Global;bcg;2015;88
+331;Global;dtp1;2015;90
+332;Global;dtp3;2015;85
+333;Global;hepb3;2015;83
+334;Global;hepbb;2015;37
+335;Global;hib3;2015;63
+336;Global;ipv1;2015;23
+337;Global;mcv1;2015;85
+338;Global;mcv2;2015;63
+339;Global;pcv3;2015;38
+340;Global;pol3;2015;85
+341;Global;rcv1;2015;47
+342;Global;rotac;2015;23
+343;Global;yfv;2015;42
+344;Global;bcg;2016;89
+345;Global;dtp1;2016;91
+346;Global;dtp3;2016;86
+347;Global;hepb3;2016;85
+348;Global;hepbb;2016;37
+349;Global;hib3;2016;71
+350;Global;ipv1;2016;47
+351;Global;mcv1;2016;86
+352;Global;mcv2;2016;67
+353;Global;pcv3;2016;43
+354;Global;pol3;2016;85
+355;Global;rcv1;2016;48
+356;Global;rotac;2016;25
+357;Global;yfv;2016;46
+358;Global;bcg;2017;89
+359;Global;dtp1;2017;91
+360;Global;dtp3;2017;86
+361;Global;hepb3;2017;84
+362;Global;hepbb;2017;41
+363;Global;hib3;2017;72
+364;Global;ipv1;2017;58
+365;Global;mcv1;2017;86
+366;Global;mcv2;2017;68
+367;Global;pcv3;2017;45
+368;Global;pol3;2017;86
+369;Global;rcv1;2017;52
+370;Global;rotac;2017;28
+371;Global;yfv;2017;48
+372;Global;bcg;2018;89
+373;Global;dtp1;2018;90
+374;Global;dtp3;2018;86
+375;Global;hepb3;2018;84
+376;Global;hepbb;2018;42
+377;Global;hib3;2018;72
+378;Global;ipv1;2018;72
+379;Global;mcv1;2018;86
+380;Global;mcv2;2018;69
+381;Global;pcv3;2018;47
+382;Global;pol3;2018;85
+383;Global;rcv1;2018;69
+384;Global;rotac;2018;35
+385;Global;yfv;2018;49
+386;East Asia & Pacific;bcg;1980;16
+387;East Asia & Pacific;dtp1;1980;14
+388;East Asia & Pacific;dtp3;1980;9
+389;East Asia & Pacific;mcv1;1980;4
+390;East Asia & Pacific;pol3;1980;5
+391;East Asia & Pacific;rcv1;1980;0
+392;East Asia & Pacific;bcg;1981;20
+393;East Asia & Pacific;dtp1;1981;19
+394;East Asia & Pacific;dtp3;1981;12
+395;East Asia & Pacific;mcv1;1981;4
+396;East Asia & Pacific;pol3;1981;7
+397;East Asia & Pacific;rcv1;1981;0
+398;East Asia & Pacific;bcg;1982;21
+399;East Asia & Pacific;dtp1;1982;18
+400;East Asia & Pacific;dtp3;1982;12
+401;East Asia & Pacific;mcv1;1982;4
+402;East Asia & Pacific;pol3;1982;59
+403;East Asia & Pacific;rcv1;1982;0
+404;East Asia & Pacific;bcg;1983;42
+405;East Asia & Pacific;dtp1;1983;68
+406;East Asia & Pacific;dtp3;1983;47
+407;East Asia & Pacific;mcv1;1983;54
+408;East Asia & Pacific;pol3;1983;62
+409;East Asia & Pacific;rcv1;1983;1
+410;East Asia & Pacific;bcg;1984;59
+411;East Asia & Pacific;dtp1;1984;77
+412;East Asia & Pacific;dtp3;1984;59
+413;East Asia & Pacific;mcv1;1984;61
+414;East Asia & Pacific;pol3;1984;65
+415;East Asia & Pacific;rcv1;1984;2
+416;East Asia & Pacific;bcg;1985;64
+417;East Asia & Pacific;dtp1;1985;83
+418;East Asia & Pacific;dtp3;1985;66
+419;East Asia & Pacific;hepb3;1985;0
+420;East Asia & Pacific;mcv1;1985;68
+421;East Asia & Pacific;pol3;1985;71
+422;East Asia & Pacific;rcv1;1985;2
+423;East Asia & Pacific;bcg;1986;68
+424;East Asia & Pacific;dtp1;1986;86
+425;East Asia & Pacific;dtp3;1986;69
+426;East Asia & Pacific;hepb3;1986;0
+427;East Asia & Pacific;mcv1;1986;57
+428;East Asia & Pacific;pol3;1986;63
+429;East Asia & Pacific;rcv1;1986;2
+430;East Asia & Pacific;bcg;1987;80
+431;East Asia & Pacific;dtp1;1987;86
+432;East Asia & Pacific;dtp3;1987;69
+433;East Asia & Pacific;hepb3;1987;0
+434;East Asia & Pacific;mcv1;1987;68
+435;East Asia & Pacific;pol3;1987;71
+436;East Asia & Pacific;rcv1;1987;2
+437;East Asia & Pacific;bcg;1988;91
+438;East Asia & Pacific;dtp1;1988;92
+439;East Asia & Pacific;dtp3;1988;84
+440;East Asia & Pacific;hepb3;1988;0
+441;East Asia & Pacific;mcv1;1988;82
+442;East Asia & Pacific;pol3;1988;84
+443;East Asia & Pacific;rcv1;1988;2
+444;East Asia & Pacific;bcg;1989;92
+445;East Asia & Pacific;dtp1;1989;94
+446;East Asia & Pacific;dtp3;1989;87
+447;East Asia & Pacific;hepb3;1989;1
+448;East Asia & Pacific;mcv1;1989;85
+449;East Asia & Pacific;pol3;1989;87
+450;East Asia & Pacific;rcv1;1989;5
+451;East Asia & Pacific;bcg;1990;94
+452;East Asia & Pacific;dtp1;1990;95
+453;East Asia & Pacific;dtp3;1990;90
+454;East Asia & Pacific;hepb3;1990;1
+455;East Asia & Pacific;hib3;1990;0
+456;East Asia & Pacific;mcv1;1990;89
+457;East Asia & Pacific;pol3;1990;90
+458;East Asia & Pacific;rcv1;1990;5
+459;East Asia & Pacific;bcg;1991;92
+460;East Asia & Pacific;dtp1;1991;94
+461;East Asia & Pacific;dtp3;1991;87
+462;East Asia & Pacific;hepb3;1991;1
+463;East Asia & Pacific;hib3;1991;0
+464;East Asia & Pacific;mcv1;1991;85
+465;East Asia & Pacific;pol3;1991;88
+466;East Asia & Pacific;rcv1;1991;5
+467;East Asia & Pacific;bcg;1992;90
+468;East Asia & Pacific;dtp1;1992;94
+469;East Asia & Pacific;dtp3;1992;85
+470;East Asia & Pacific;hepb3;1992;6
+471;East Asia & Pacific;hib3;1992;0
+472;East Asia & Pacific;mcv1;1992;82
+473;East Asia & Pacific;pol3;1992;86
+474;East Asia & Pacific;rcv1;1992;5
+475;East Asia & Pacific;bcg;1993;89
+476;East Asia & Pacific;dtp1;1993;93
+477;East Asia & Pacific;dtp3;1993;83
+478;East Asia & Pacific;hepb3;1993;9
+479;East Asia & Pacific;hib3;1993;0
+480;East Asia & Pacific;mcv1;1993;79
+481;East Asia & Pacific;pol3;1993;85
+482;East Asia & Pacific;rcv1;1993;8
+483;East Asia & Pacific;bcg;1994;87
+484;East Asia & Pacific;dtp1;1994;93
+485;East Asia & Pacific;dtp3;1994;82
+486;East Asia & Pacific;hepb3;1994;10
+487;East Asia & Pacific;hib3;1994;0
+488;East Asia & Pacific;mcv1;1994;76
+489;East Asia & Pacific;pol3;1994;84
+490;East Asia & Pacific;rcv1;1994;8
+491;East Asia & Pacific;bcg;1995;81
+492;East Asia & Pacific;dtp1;1995;91
+493;East Asia & Pacific;dtp3;1995;79
+494;East Asia & Pacific;hepb3;1995;16
+495;East Asia & Pacific;hib3;1995;0
+496;East Asia & Pacific;mcv1;1995;79
+497;East Asia & Pacific;pol3;1995;81
+498;East Asia & Pacific;rcv1;1995;9
+499;East Asia & Pacific;bcg;1996;86
+500;East Asia & Pacific;dtp1;1996;92
+501;East Asia & Pacific;dtp3;1996;82
+502;East Asia & Pacific;hepb3;1996;18
+503;East Asia & Pacific;hib3;1996;0
+504;East Asia & Pacific;mcv1;1996;83
+505;East Asia & Pacific;pol3;1996;84
+506;East Asia & Pacific;rcv1;1996;9
+507;East Asia & Pacific;bcg;1997;85
+508;East Asia & Pacific;dtp1;1997;92
+509;East Asia & Pacific;dtp3;1997;82
+510;East Asia & Pacific;hepb3;1997;18
+511;East Asia & Pacific;hib3;1997;1
+512;East Asia & Pacific;mcv1;1997;83
+513;East Asia & Pacific;pol3;1997;85
+514;East Asia & Pacific;rcv1;1997;9
+515;East Asia & Pacific;bcg;1998;85
+516;East Asia & Pacific;dtp1;1998;92
+517;East Asia & Pacific;dtp3;1998;82
+518;East Asia & Pacific;hepb3;1998;20
+519;East Asia & Pacific;hib3;1998;1
+520;East Asia & Pacific;mcv1;1998;83
+521;East Asia & Pacific;pol3;1998;86
+522;East Asia & Pacific;rcv1;1998;11
+523;East Asia & Pacific;bcg;1999;85
+524;East Asia & Pacific;dtp1;1999;92
+525;East Asia & Pacific;dtp3;1999;83
+526;East Asia & Pacific;hepb3;1999;20
+527;East Asia & Pacific;hib3;1999;1
+528;East Asia & Pacific;mcv1;1999;84
+529;East Asia & Pacific;pol3;1999;86
+530;East Asia & Pacific;rcv1;1999;11
+531;East Asia & Pacific;bcg;2000;85
+532;East Asia & Pacific;dtp1;2000;92
+533;East Asia & Pacific;dtp3;2000;83
+534;East Asia & Pacific;hepb3;2000;50
+535;East Asia & Pacific;hepbb;2000;2
+536;East Asia & Pacific;hib3;2000;1
+537;East Asia & Pacific;mcv1;2000;84
+538;East Asia & Pacific;mcv2;2000;4
+539;East Asia & Pacific;pol3;2000;84
+540;East Asia & Pacific;rcv1;2000;11
+541;East Asia & Pacific;bcg;2001;85
+542;East Asia & Pacific;dtp1;2001;92
+543;East Asia & Pacific;dtp3;2001;84
+544;East Asia & Pacific;hepb3;2001;56
+545;East Asia & Pacific;hepbb;2001;2
+546;East Asia & Pacific;hib3;2001;1
+547;East Asia & Pacific;mcv1;2001;84
+548;East Asia & Pacific;mcv2;2001;4
+549;East Asia & Pacific;pol3;2001;84
+550;East Asia & Pacific;rcv1;2001;11
+551;East Asia & Pacific;bcg;2002;85
+552;East Asia & Pacific;dtp1;2002;91
+553;East Asia & Pacific;dtp3;2002;82
+554;East Asia & Pacific;hepb3;2002;58
+555;East Asia & Pacific;hepbb;2002;2
+556;East Asia & Pacific;hib3;2002;1
+557;East Asia & Pacific;mcv1;2002;84
+558;East Asia & Pacific;mcv2;2002;5
+559;East Asia & Pacific;pol3;2002;85
+560;East Asia & Pacific;rcv1;2002;11
+561;East Asia & Pacific;bcg;2003;86
+562;East Asia & Pacific;dtp1;2003;92
+563;East Asia & Pacific;dtp3;2003;84
+564;East Asia & Pacific;hepb3;2003;66
+565;East Asia & Pacific;hepbb;2003;2
+566;East Asia & Pacific;hib3;2003;1
+567;East Asia & Pacific;mcv1;2003;84
+568;East Asia & Pacific;mcv2;2003;8
+569;East Asia & Pacific;pol3;2003;87
+570;East Asia & Pacific;rcv1;2003;11
+571;East Asia & Pacific;bcg;2004;87
+572;East Asia & Pacific;dtp1;2004;93
+573;East Asia & Pacific;dtp3;2004;85
+574;East Asia & Pacific;hepb3;2004;71
+575;East Asia & Pacific;hepbb;2004;44
+576;East Asia & Pacific;hib3;2004;2
+577;East Asia & Pacific;mcv1;2004;86
+578;East Asia & Pacific;mcv2;2004;10
+579;East Asia & Pacific;pol3;2004;87
+580;East Asia & Pacific;rcv1;2004;10
+581;East Asia & Pacific;bcg;2005;87
+582;East Asia & Pacific;dtp1;2005;92
+583;East Asia & Pacific;dtp3;2005;85
+584;East Asia & Pacific;hepb3;2005;75
+585;East Asia & Pacific;hepbb;2005;50
+586;East Asia & Pacific;hib3;2005;2
+587;East Asia & Pacific;mcv1;2005;86
+588;East Asia & Pacific;mcv2;2005;57
+589;East Asia & Pacific;pol3;2005;87
+590;East Asia & Pacific;rcv1;2005;10
+591;East Asia & Pacific;bcg;2006;91
+592;East Asia & Pacific;dtp1;2006;95
+593;East Asia & Pacific;dtp3;2006;89
+594;East Asia & Pacific;hepb3;2006;82
+595;East Asia & Pacific;hepbb;2006;51
+596;East Asia & Pacific;hib3;2006;3
+597;East Asia & Pacific;mcv1;2006;90
+598;East Asia & Pacific;mcv2;2006;66
+599;East Asia & Pacific;pol3;2006;90
+600;East Asia & Pacific;rcv1;2006;10
+601;East Asia & Pacific;rotac;2006;0
+602;East Asia & Pacific;bcg;2007;92
+603;East Asia & Pacific;dtp1;2007;95
+604;East Asia & Pacific;dtp3;2007;89
+605;East Asia & Pacific;hepb3;2007;84
+606;East Asia & Pacific;hepbb;2007;52
+607;East Asia & Pacific;hib3;2007;3
+608;East Asia & Pacific;mcv1;2007;90
+609;East Asia & Pacific;mcv2;2007;69
+610;East Asia & Pacific;pol3;2007;90
+611;East Asia & Pacific;rcv1;2007;10
+612;East Asia & Pacific;rotac;2007;0
+613;East Asia & Pacific;bcg;2008;93
+614;East Asia & Pacific;dtp1;2008;96
+615;East Asia & Pacific;dtp3;2008;92
+616;East Asia & Pacific;hepb3;2008;88
+617;East Asia & Pacific;hepbb;2008;56
+618;East Asia & Pacific;hib3;2008;3
+619;East Asia & Pacific;mcv1;2008;92
+620;East Asia & Pacific;mcv2;2008;79
+621;East Asia & Pacific;pcv3;2008;1
+622;East Asia & Pacific;pol3;2008;94
+623;East Asia & Pacific;rcv1;2008;10
+624;East Asia & Pacific;rotac;2008;1
+625;East Asia & Pacific;bcg;2009;94
+626;East Asia & Pacific;dtp1;2009;96
+627;East Asia & Pacific;dtp3;2009;94
+628;East Asia & Pacific;hepb3;2009;91
+629;East Asia & Pacific;hepbb;2009;59
+630;East Asia & Pacific;hib3;2009;3
+631;East Asia & Pacific;mcv1;2009;93
+632;East Asia & Pacific;mcv2;2009;83
+633;East Asia & Pacific;pcv3;2009;1
+634;East Asia & Pacific;pol3;2009;95
+635;East Asia & Pacific;rcv1;2009;10
+636;East Asia & Pacific;rotac;2009;1
+637;East Asia & Pacific;bcg;2010;95
+638;East Asia & Pacific;dtp1;2010;95
+639;East Asia & Pacific;dtp3;2010;93
+640;East Asia & Pacific;hepb3;2010;90
+641;East Asia & Pacific;hepbb;2010;58
+642;East Asia & Pacific;hib3;2010;8
+643;East Asia & Pacific;mcv1;2010;93
+644;East Asia & Pacific;mcv2;2010;85
+645;East Asia & Pacific;pcv3;2010;1
+646;East Asia & Pacific;pol3;2010;94
+647;East Asia & Pacific;rcv1;2010;50
+648;East Asia & Pacific;rotac;2010;1
+649;East Asia & Pacific;bcg;2011;98
+650;East Asia & Pacific;dtp1;2011;96
+651;East Asia & Pacific;dtp3;2011;94
+652;East Asia & Pacific;hepb3;2011;89
+653;East Asia & Pacific;hepbb;2011;62
+654;East Asia & Pacific;hib3;2011;14
+655;East Asia & Pacific;mcv1;2011;94
+656;East Asia & Pacific;mcv2;2011;87
+657;East Asia & Pacific;pcv3;2011;5
+658;East Asia & Pacific;pol3;2011;94
+659;East Asia & Pacific;rcv1;2011;64
+660;East Asia & Pacific;rotac;2011;1
+661;East Asia & Pacific;bcg;2012;96
+662;East Asia & Pacific;dtp1;2012;96
+663;East Asia & Pacific;dtp3;2012;95
+664;East Asia & Pacific;hepb3;2012;90
+665;East Asia & Pacific;hepbb;2012;63
+666;East Asia & Pacific;hib3;2012;15
+667;East Asia & Pacific;mcv1;2012;94
+668;East Asia & Pacific;mcv2;2012;85
+669;East Asia & Pacific;pcv3;2012;5
+670;East Asia & Pacific;pol3;2012;95
+671;East Asia & Pacific;rcv1;2012;69
+672;East Asia & Pacific;rotac;2012;1
+673;East Asia & Pacific;bcg;2013;95
+674;East Asia & Pacific;dtp1;2013;95
+675;East Asia & Pacific;dtp3;2013;93
+676;East Asia & Pacific;hepb3;2013;90
+677;East Asia & Pacific;hepbb;2013;65
+678;East Asia & Pacific;hib3;2013;22
+679;East Asia & Pacific;mcv1;2013;94
+680;East Asia & Pacific;mcv2;2013;88
+681;East Asia & Pacific;pcv3;2013;5
+682;East Asia & Pacific;pol3;2013;94
+683;East Asia & Pacific;rcv1;2013;71
+684;East Asia & Pacific;rotac;2013;3
+685;East Asia & Pacific;bcg;2014;94
+686;East Asia & Pacific;dtp1;2014;95
+687;East Asia & Pacific;dtp3;2014;92
+688;East Asia & Pacific;hepb3;2014;89
+689;East Asia & Pacific;hepbb;2014;64
+690;East Asia & Pacific;hib3;2014;28
+691;East Asia & Pacific;mcv1;2014;93
+692;East Asia & Pacific;mcv2;2014;82
+693;East Asia & Pacific;pcv3;2014;7
+694;East Asia & Pacific;pol3;2014;93
+695;East Asia & Pacific;rcv1;2014;71
+696;East Asia & Pacific;rotac;2014;1
+697;East Asia & Pacific;bcg;2015;94
+698;East Asia & Pacific;dtp1;2015;94
+699;East Asia & Pacific;dtp3;2015;92
+700;East Asia & Pacific;hepb3;2015;89
+701;East Asia & Pacific;hepbb;2015;66
+702;East Asia & Pacific;hib3;2015;35
+703;East Asia & Pacific;ipv1;2015;4
+704;East Asia & Pacific;mcv1;2015;93
+705;East Asia & Pacific;mcv2;2015;82
+706;East Asia & Pacific;pcv3;2015;8
+707;East Asia & Pacific;pol3;2015;94
+708;East Asia & Pacific;rcv1;2015;78
+709;East Asia & Pacific;rotac;2015;1
+710;East Asia & Pacific;bcg;2016;95
+711;East Asia & Pacific;dtp1;2016;95
+712;East Asia & Pacific;dtp3;2016;94
+713;East Asia & Pacific;hepb3;2016;91
+714;East Asia & Pacific;hepbb;2016;66
+715;East Asia & Pacific;hib3;2016;37
+716;East Asia & Pacific;ipv1;2016;20
+717;East Asia & Pacific;mcv1;2016;93
+718;East Asia & Pacific;mcv2;2016;86
+719;East Asia & Pacific;pcv3;2016;10
+720;East Asia & Pacific;pol3;2016;93
+721;East Asia & Pacific;rcv1;2016;80
+722;East Asia & Pacific;rotac;2016;1
+723;East Asia & Pacific;bcg;2017;94
+724;East Asia & Pacific;dtp1;2017;94
+725;East Asia & Pacific;dtp3;2017;93
+726;East Asia & Pacific;hepb3;2017;90
+727;East Asia & Pacific;hepbb;2017;74
+728;East Asia & Pacific;hib3;2017;36
+729;East Asia & Pacific;ipv1;2017;75
+730;East Asia & Pacific;mcv1;2017;92
+731;East Asia & Pacific;mcv2;2017;87
+732;East Asia & Pacific;pcv3;2017;13
+733;East Asia & Pacific;pol3;2017;93
+734;East Asia & Pacific;rcv1;2017;81
+735;East Asia & Pacific;rotac;2017;1
+736;East Asia & Pacific;bcg;2018;93
+737;East Asia & Pacific;dtp1;2018;93
+738;East Asia & Pacific;dtp3;2018;91
+739;East Asia & Pacific;hepb3;2018;88
+740;East Asia & Pacific;hepbb;2018;77
+741;East Asia & Pacific;hib3;2018;35
+742;East Asia & Pacific;ipv1;2018;82
+743;East Asia & Pacific;mcv1;2018;92
+744;East Asia & Pacific;mcv2;2018;87
+745;East Asia & Pacific;pcv3;2018;14
+746;East Asia & Pacific;pol3;2018;92
+747;East Asia & Pacific;rcv1;2018;85
+748;East Asia & Pacific;rotac;2018;1
+749;Eastern & Southern Africa;bcg;1980;9
+750;Eastern & Southern Africa;dtp1;1980;13
+751;Eastern & Southern Africa;dtp3;1980;8
+752;Eastern & Southern Africa;mcv1;1980;8
+753;Eastern & Southern Africa;pol3;1980;8
+754;Eastern & Southern Africa;rcv1;1980;0
+755;Eastern & Southern Africa;bcg;1981;25
+756;Eastern & Southern Africa;dtp1;1981;29
+757;Eastern & Southern Africa;dtp3;1981;16
+758;Eastern & Southern Africa;mcv1;1981;16
+759;Eastern & Southern Africa;pol3;1981;13
+760;Eastern & Southern Africa;rcv1;1981;0
+761;Eastern & Southern Africa;bcg;1982;25
+762;Eastern & Southern Africa;dtp1;1982;31
+763;Eastern & Southern Africa;dtp3;1982;16
+764;Eastern & Southern Africa;mcv1;1982;18
+765;Eastern & Southern Africa;pol3;1982;15
+766;Eastern & Southern Africa;rcv1;1982;0
+767;Eastern & Southern Africa;bcg;1983;37
+768;Eastern & Southern Africa;dtp1;1983;47
+769;Eastern & Southern Africa;dtp3;1983;29
+770;Eastern & Southern Africa;mcv1;1983;31
+771;Eastern & Southern Africa;pol3;1983;27
+772;Eastern & Southern Africa;rcv1;1983;0
+773;Eastern & Southern Africa;bcg;1984;43
+774;Eastern & Southern Africa;dtp1;1984;55
+775;Eastern & Southern Africa;dtp3;1984;35
+776;Eastern & Southern Africa;mcv1;1984;35
+777;Eastern & Southern Africa;pol3;1984;32
+778;Eastern & Southern Africa;rcv1;1984;0
+779;Eastern & Southern Africa;bcg;1985;49
+780;Eastern & Southern Africa;dtp1;1985;58
+781;Eastern & Southern Africa;dtp3;1985;38
+782;Eastern & Southern Africa;hepb3;1985;0
+783;Eastern & Southern Africa;mcv1;1985;39
+784;Eastern & Southern Africa;pol3;1985;38
+785;Eastern & Southern Africa;rcv1;1985;0
+786;Eastern & Southern Africa;bcg;1986;52
+787;Eastern & Southern Africa;dtp1;1986;62
+788;Eastern & Southern Africa;dtp3;1986;42
+789;Eastern & Southern Africa;hepb3;1986;0
+790;Eastern & Southern Africa;mcv1;1986;45
+791;Eastern & Southern Africa;pol3;1986;42
+792;Eastern & Southern Africa;rcv1;1986;0
+793;Eastern & Southern Africa;bcg;1987;61
+794;Eastern & Southern Africa;dtp1;1987;68
+795;Eastern & Southern Africa;dtp3;1987;49
+796;Eastern & Southern Africa;hepb3;1987;0
+797;Eastern & Southern Africa;mcv1;1987;49
+798;Eastern & Southern Africa;pol3;1987;50
+799;Eastern & Southern Africa;rcv1;1987;0
+800;Eastern & Southern Africa;bcg;1988;61
+801;Eastern & Southern Africa;dtp1;1988;70
+802;Eastern & Southern Africa;dtp3;1988;52
+803;Eastern & Southern Africa;hepb3;1988;0
+804;Eastern & Southern Africa;mcv1;1988;53
+805;Eastern & Southern Africa;pol3;1988;51
+806;Eastern & Southern Africa;rcv1;1988;0
+807;Eastern & Southern Africa;bcg;1989;71
+808;Eastern & Southern Africa;dtp1;1989;75
+809;Eastern & Southern Africa;dtp3;1989;57
+810;Eastern & Southern Africa;hepb3;1989;0
+811;Eastern & Southern Africa;mcv1;1989;59
+812;Eastern & Southern Africa;pol3;1989;56
+813;Eastern & Southern Africa;rcv1;1989;0
+814;Eastern & Southern Africa;bcg;1990;73
+815;Eastern & Southern Africa;dtp1;1990;81
+816;Eastern & Southern Africa;dtp3;1990;62
+817;Eastern & Southern Africa;hepb3;1990;0
+818;Eastern & Southern Africa;hib3;1990;0
+819;Eastern & Southern Africa;mcv1;1990;62
+820;Eastern & Southern Africa;pol3;1990;63
+821;Eastern & Southern Africa;rcv1;1990;0
+822;Eastern & Southern Africa;bcg;1991;69
+823;Eastern & Southern Africa;dtp1;1991;76
+824;Eastern & Southern Africa;dtp3;1991;58
+825;Eastern & Southern Africa;hepb3;1991;0
+826;Eastern & Southern Africa;hib3;1991;0
+827;Eastern & Southern Africa;mcv1;1991;58
+828;Eastern & Southern Africa;pol3;1991;59
+829;Eastern & Southern Africa;rcv1;1991;0
+830;Eastern & Southern Africa;bcg;1992;68
+831;Eastern & Southern Africa;dtp1;1992;74
+832;Eastern & Southern Africa;dtp3;1992;56
+833;Eastern & Southern Africa;hepb3;1992;0
+834;Eastern & Southern Africa;hib3;1992;0
+835;Eastern & Southern Africa;mcv1;1992;57
+836;Eastern & Southern Africa;pol3;1992;57
+837;Eastern & Southern Africa;rcv1;1992;0
+838;Eastern & Southern Africa;bcg;1993;72
+839;Eastern & Southern Africa;dtp1;1993;78
+840;Eastern & Southern Africa;dtp3;1993;60
+841;Eastern & Southern Africa;hepb3;1993;0
+842;Eastern & Southern Africa;hib3;1993;0
+843;Eastern & Southern Africa;mcv1;1993;59
+844;Eastern & Southern Africa;pol3;1993;59
+845;Eastern & Southern Africa;rcv1;1993;0
+846;Eastern & Southern Africa;bcg;1994;76
+847;Eastern & Southern Africa;dtp1;1994;81
+848;Eastern & Southern Africa;dtp3;1994;64
+849;Eastern & Southern Africa;hepb3;1994;0
+850;Eastern & Southern Africa;hib3;1994;0
+851;Eastern & Southern Africa;mcv1;1994;64
+852;Eastern & Southern Africa;pol3;1994;63
+853;Eastern & Southern Africa;rcv1;1994;0
+854;Eastern & Southern Africa;bcg;1995;79
+855;Eastern & Southern Africa;dtp1;1995;82
+856;Eastern & Southern Africa;dtp3;1995;65
+857;Eastern & Southern Africa;hepb3;1995;0
+858;Eastern & Southern Africa;hib3;1995;0
+859;Eastern & Southern Africa;mcv1;1995;62
+860;Eastern & Southern Africa;pol3;1995;66
+861;Eastern & Southern Africa;rcv1;1995;0
+862;Eastern & Southern Africa;bcg;1996;77
+863;Eastern & Southern Africa;dtp1;1996;82
+864;Eastern & Southern Africa;dtp3;1996;65
+865;Eastern & Southern Africa;hepb3;1996;1
+866;Eastern & Southern Africa;hib3;1996;0
+867;Eastern & Southern Africa;mcv1;1996;65
+868;Eastern & Southern Africa;pol3;1996;68
+869;Eastern & Southern Africa;rcv1;1996;0
+870;Eastern & Southern Africa;bcg;1997;77
+871;Eastern & Southern Africa;dtp1;1997;83
+872;Eastern & Southern Africa;dtp3;1997;64
+873;Eastern & Southern Africa;hepb3;1997;7
+874;Eastern & Southern Africa;hib3;1997;0
+875;Eastern & Southern Africa;mcv1;1997;65
+876;Eastern & Southern Africa;pol3;1997;69
+877;Eastern & Southern Africa;rcv1;1997;0
+878;Eastern & Southern Africa;yfv;1997;1
+879;Eastern & Southern Africa;bcg;1998;75
+880;Eastern & Southern Africa;dtp1;1998;78
+881;Eastern & Southern Africa;dtp3;1998;61
+882;Eastern & Southern Africa;hepb3;1998;7
+883;Eastern & Southern Africa;hib3;1998;0
+884;Eastern & Southern Africa;mcv1;1998;62
+885;Eastern & Southern Africa;pol3;1998;66
+886;Eastern & Southern Africa;rcv1;1998;0
+887;Eastern & Southern Africa;yfv;1998;2
+888;Eastern & Southern Africa;bcg;1999;75
+889;Eastern & Southern Africa;dtp1;1999;73
+890;Eastern & Southern Africa;dtp3;1999;57
+891;Eastern & Southern Africa;hepb3;1999;7
+892;Eastern & Southern Africa;hib3;1999;0
+893;Eastern & Southern Africa;mcv1;1999;59
+894;Eastern & Southern Africa;pol3;1999;65
+895;Eastern & Southern Africa;rcv1;1999;0
+896;Eastern & Southern Africa;yfv;1999;2
+897;Eastern & Southern Africa;bcg;2000;74
+898;Eastern & Southern Africa;dtp1;2000;74
+899;Eastern & Southern Africa;dtp3;2000;59
+900;Eastern & Southern Africa;hepb3;2000;8
+901;Eastern & Southern Africa;hepbb;2000;0
+902;Eastern & Southern Africa;hib3;2000;6
+903;Eastern & Southern Africa;mcv1;2000;60
+904;Eastern & Southern Africa;mcv2;2000;5
+905;Eastern & Southern Africa;pol3;2000;63
+906;Eastern & Southern Africa;rcv1;2000;0
+907;Eastern & Southern Africa;yfv;2000;2
+908;Eastern & Southern Africa;bcg;2001;77
+909;Eastern & Southern Africa;dtp1;2001;76
+910;Eastern & Southern Africa;dtp3;2001;62
+911;Eastern & Southern Africa;hepb3;2001;9
+912;Eastern & Southern Africa;hepbb;2001;0
+913;Eastern & Southern Africa;hib3;2001;5
+914;Eastern & Southern Africa;mcv1;2001;62
+915;Eastern & Southern Africa;mcv2;2001;4
+916;Eastern & Southern Africa;pol3;2001;64
+917;Eastern & Southern Africa;rcv1;2001;0
+918;Eastern & Southern Africa;yfv;2001;2
+919;Eastern & Southern Africa;bcg;2002;77
+920;Eastern & Southern Africa;dtp1;2002;77
+921;Eastern & Southern Africa;dtp3;2002;62
+922;Eastern & Southern Africa;hepb3;2002;39
+923;Eastern & Southern Africa;hepbb;2002;0
+924;Eastern & Southern Africa;hib3;2002;19
+925;Eastern & Southern Africa;mcv1;2002;63
+926;Eastern & Southern Africa;mcv2;2002;4
+927;Eastern & Southern Africa;pol3;2002;66
+928;Eastern & Southern Africa;rcv1;2002;0
+929;Eastern & Southern Africa;yfv;2002;2
+930;Eastern & Southern Africa;bcg;2003;77
+931;Eastern & Southern Africa;dtp1;2003;79
+932;Eastern & Southern Africa;dtp3;2003;64
+933;Eastern & Southern Africa;hepb3;2003;41
+934;Eastern & Southern Africa;hepbb;2003;0
+935;Eastern & Southern Africa;hib3;2003;21
+936;Eastern & Southern Africa;mcv1;2003;64
+937;Eastern & Southern Africa;mcv2;2003;4
+938;Eastern & Southern Africa;pol3;2003;67
+939;Eastern & Southern Africa;rcv1;2003;0
+940;Eastern & Southern Africa;yfv;2003;3
+941;Eastern & Southern Africa;bcg;2004;77
+942;Eastern & Southern Africa;dtp1;2004;80
+943;Eastern & Southern Africa;dtp3;2004;66
+944;Eastern & Southern Africa;hepb3;2004;45
+945;Eastern & Southern Africa;hepbb;2004;0
+946;Eastern & Southern Africa;hib3;2004;27
+947;Eastern & Southern Africa;mcv1;2004;65
+948;Eastern & Southern Africa;mcv2;2004;4
+949;Eastern & Southern Africa;pol3;2004;68
+950;Eastern & Southern Africa;rcv1;2004;0
+951;Eastern & Southern Africa;yfv;2004;3
+952;Eastern & Southern Africa;bcg;2005;79
+953;Eastern & Southern Africa;dtp1;2005;80
+954;Eastern & Southern Africa;dtp3;2005;68
+955;Eastern & Southern Africa;hepb3;2005;51
+956;Eastern & Southern Africa;hepbb;2005;0
+957;Eastern & Southern Africa;hib3;2005;28
+958;Eastern & Southern Africa;mcv1;2005;64
+959;Eastern & Southern Africa;mcv2;2005;4
+960;Eastern & Southern Africa;pol3;2005;68
+961;Eastern & Southern Africa;rcv1;2005;0
+962;Eastern & Southern Africa;yfv;2005;2
+963;Eastern & Southern Africa;bcg;2006;80
+964;Eastern & Southern Africa;dtp1;2006;82
+965;Eastern & Southern Africa;dtp3;2006;69
+966;Eastern & Southern Africa;hepb3;2006;56
+967;Eastern & Southern Africa;hepbb;2006;0
+968;Eastern & Southern Africa;hib3;2006;29
+969;Eastern & Southern Africa;mcv1;2006;67
+970;Eastern & Southern Africa;mcv2;2006;5
+971;Eastern & Southern Africa;pol3;2006;70
+972;Eastern & Southern Africa;rcv1;2006;0
+973;Eastern & Southern Africa;rotac;2006;0
+974;Eastern & Southern Africa;yfv;2006;2
+975;Eastern & Southern Africa;bcg;2007;82
+976;Eastern & Southern Africa;dtp1;2007;85
+977;Eastern & Southern Africa;dtp3;2007;72
+978;Eastern & Southern Africa;hepb3;2007;69
+979;Eastern & Southern Africa;hepbb;2007;0
+980;Eastern & Southern Africa;hib3;2007;41
+981;Eastern & Southern Africa;mcv1;2007;72
+982;Eastern & Southern Africa;mcv2;2007;4
+983;Eastern & Southern Africa;pol3;2007;74
+984;Eastern & Southern Africa;rcv1;2007;0
+985;Eastern & Southern Africa;rotac;2007;0
+986;Eastern & Southern Africa;yfv;2007;4
+987;Eastern & Southern Africa;bcg;2008;84
+988;Eastern & Southern Africa;dtp1;2008;85
+989;Eastern & Southern Africa;dtp3;2008;73
+990;Eastern & Southern Africa;hepb3;2008;71
+991;Eastern & Southern Africa;hepbb;2008;0
+992;Eastern & Southern Africa;hib3;2008;55
+993;Eastern & Southern Africa;mcv1;2008;72
+994;Eastern & Southern Africa;mcv2;2008;5
+995;Eastern & Southern Africa;pcv3;2008;0
+996;Eastern & Southern Africa;pol3;2008;75
+997;Eastern & Southern Africa;rcv1;2008;0
+998;Eastern & Southern Africa;rotac;2008;0
+999;Eastern & Southern Africa;yfv;2008;3
+1000;Eastern & Southern Africa;bcg;2009;84
+1001;Eastern & Southern Africa;dtp1;2009;85
+1002;Eastern & Southern Africa;dtp3;2009;74
+1003;Eastern & Southern Africa;hepb3;2009;71
+1004;Eastern & Southern Africa;hepbb;2009;0
+1005;Eastern & Southern Africa;hib3;2009;71
+1006;Eastern & Southern Africa;mcv1;2009;75
+1007;Eastern & Southern Africa;mcv2;2009;5
+1008;Eastern & Southern Africa;pcv3;2009;1
+1009;Eastern & Southern Africa;pol3;2009;75
+1010;Eastern & Southern Africa;rcv1;2009;0
+1011;Eastern & Southern Africa;rotac;2009;1
+1012;Eastern & Southern Africa;yfv;2009;2
+1013;Eastern & Southern Africa;bcg;2010;86
+1014;Eastern & Southern Africa;dtp1;2010;88
+1015;Eastern & Southern Africa;dtp3;2010;77
+1016;Eastern & Southern Africa;hepb3;2010;74
+1017;Eastern & Southern Africa;hepbb;2010;0
+1018;Eastern & Southern Africa;hib3;2010;74
+1019;Eastern & Southern Africa;mcv1;2010;78
+1020;Eastern & Southern Africa;mcv2;2010;5
+1021;Eastern & Southern Africa;pcv3;2010;6
+1022;Eastern & Southern Africa;pol3;2010;79
+1023;Eastern & Southern Africa;rcv1;2010;0
+1024;Eastern & Southern Africa;rotac;2010;4
+1025;Eastern & Southern Africa;yfv;2010;2
+1026;Eastern & Southern Africa;bcg;2011;88
+1027;Eastern & Southern Africa;dtp1;2011;88
+1028;Eastern & Southern Africa;dtp3;2011;78
+1029;Eastern & Southern Africa;hepb3;2011;76
+1030;Eastern & Southern Africa;hepbb;2011;0
+1031;Eastern & Southern Africa;hib3;2011;75
+1032;Eastern & Southern Africa;mcv1;2011;78
+1033;Eastern & Southern Africa;mcv2;2011;5
+1034;Eastern & Southern Africa;pcv3;2011;17
+1035;Eastern & Southern Africa;pol3;2011;79
+1036;Eastern & Southern Africa;rcv1;2011;0
+1037;Eastern & Southern Africa;rotac;2011;7
+1038;Eastern & Southern Africa;yfv;2011;3
+1039;Eastern & Southern Africa;bcg;2012;86
+1040;Eastern & Southern Africa;dtp1;2012;86
+1041;Eastern & Southern Africa;dtp3;2012;77
+1042;Eastern & Southern Africa;hepb3;2012;75
+1043;Eastern & Southern Africa;hepbb;2012;0
+1044;Eastern & Southern Africa;hib3;2012;75
+1045;Eastern & Southern Africa;mcv1;2012;78
+1046;Eastern & Southern Africa;mcv2;2012;6
+1047;Eastern & Southern Africa;pcv3;2012;27
+1048;Eastern & Southern Africa;pol3;2012;78
+1049;Eastern & Southern Africa;rcv1;2012;0
+1050;Eastern & Southern Africa;rotac;2012;12
+1051;Eastern & Southern Africa;yfv;2012;3
+1052;Eastern & Southern Africa;bcg;2013;84
+1053;Eastern & Southern Africa;dtp1;2013;84
+1054;Eastern & Southern Africa;dtp3;2013;77
+1055;Eastern & Southern Africa;hepb3;2013;76
+1056;Eastern & Southern Africa;hepbb;2013;0
+1057;Eastern & Southern Africa;hib3;2013;76
+1058;Eastern & Southern Africa;mcv1;2013;77
+1059;Eastern & Southern Africa;mcv2;2013;10
+1060;Eastern & Southern Africa;pcv3;2013;49
+1061;Eastern & Southern Africa;pol3;2013;79
+1062;Eastern & Southern Africa;rcv1;2013;0
+1063;Eastern & Southern Africa;rotac;2013;26
+1064;Eastern & Southern Africa;yfv;2013;2
+1065;Eastern & Southern Africa;bcg;2014;85
+1066;Eastern & Southern Africa;dtp1;2014;87
+1067;Eastern & Southern Africa;dtp3;2014;79
+1068;Eastern & Southern Africa;hepb3;2014;78
+1069;Eastern & Southern Africa;hepbb;2014;0
+1070;Eastern & Southern Africa;hib3;2014;78
+1071;Eastern & Southern Africa;mcv1;2014;77
+1072;Eastern & Southern Africa;mcv2;2014;15
+1073;Eastern & Southern Africa;pcv3;2014;69
+1074;Eastern & Southern Africa;pol3;2014;80
+1075;Eastern & Southern Africa;rcv1;2014;11
+1076;Eastern & Southern Africa;rotac;2014;50
+1077;Eastern & Southern Africa;yfv;2014;5
+1078;Eastern & Southern Africa;bcg;2015;86
+1079;Eastern & Southern Africa;dtp1;2015;89
+1080;Eastern & Southern Africa;dtp3;2015;81
+1081;Eastern & Southern Africa;hepb3;2015;81
+1082;Eastern & Southern Africa;hepbb;2015;0
+1083;Eastern & Southern Africa;hib3;2015;81
+1084;Eastern & Southern Africa;ipv1;2015;13
+1085;Eastern & Southern Africa;mcv1;2015;79
+1086;Eastern & Southern Africa;mcv2;2015;26
+1087;Eastern & Southern Africa;pcv3;2015;73
+1088;Eastern & Southern Africa;pol3;2015;82
+1089;Eastern & Southern Africa;rcv1;2015;13
+1090;Eastern & Southern Africa;rotac;2015;65
+1091;Eastern & Southern Africa;yfv;2015;5
+1092;Eastern & Southern Africa;bcg;2016;86
+1093;Eastern & Southern Africa;dtp1;2016;89
+1094;Eastern & Southern Africa;dtp3;2016;81
+1095;Eastern & Southern Africa;hepb3;2016;81
+1096;Eastern & Southern Africa;hepbb;2016;0
+1097;Eastern & Southern Africa;hib3;2016;81
+1098;Eastern & Southern Africa;ipv1;2016;30
+1099;Eastern & Southern Africa;mcv1;2016;77
+1100;Eastern & Southern Africa;mcv2;2016;34
+1101;Eastern & Southern Africa;pcv3;2016;76
+1102;Eastern & Southern Africa;pol3;2016;81
+1103;Eastern & Southern Africa;rcv1;2016;15
+1104;Eastern & Southern Africa;rotac;2016;69
+1105;Eastern & Southern Africa;yfv;2016;3
+1106;Eastern & Southern Africa;bcg;2017;86
+1107;Eastern & Southern Africa;dtp1;2017;88
+1108;Eastern & Southern Africa;dtp3;2017;81
+1109;Eastern & Southern Africa;hepb3;2017;81
+1110;Eastern & Southern Africa;hepbb;2017;0
+1111;Eastern & Southern Africa;hib3;2017;81
+1112;Eastern & Southern Africa;ipv1;2017;36
+1113;Eastern & Southern Africa;mcv1;2017;77
+1114;Eastern & Southern Africa;mcv2;2017;37
+1115;Eastern & Southern Africa;pcv3;2017;76
+1116;Eastern & Southern Africa;pol3;2017;80
+1117;Eastern & Southern Africa;rcv1;2017;32
+1118;Eastern & Southern Africa;rotac;2017;70
+1119;Eastern & Southern Africa;yfv;2017;4
+1120;Eastern & Southern Africa;bcg;2018;86
+1121;Eastern & Southern Africa;dtp1;2018;88
+1122;Eastern & Southern Africa;dtp3;2018;81
+1123;Eastern & Southern Africa;hepb3;2018;81
+1124;Eastern & Southern Africa;hepbb;2018;0
+1125;Eastern & Southern Africa;hib3;2018;81
+1126;Eastern & Southern Africa;ipv1;2018;60
+1127;Eastern & Southern Africa;mcv1;2018;77
+1128;Eastern & Southern Africa;mcv2;2018;40
+1129;Eastern & Southern Africa;pcv3;2018;77
+1130;Eastern & Southern Africa;pol3;2018;78
+1131;Eastern & Southern Africa;rcv1;2018;41
+1132;Eastern & Southern Africa;rotac;2018;74
+1133;Eastern & Southern Africa;yfv;2018;4
+1134;Eastern Europe & Central Asia;bcg;1980;6
+1135;Eastern Europe & Central Asia;dtp1;1980;82
+1136;Eastern Europe & Central Asia;dtp3;1980;76
+1137;Eastern Europe & Central Asia;mcv1;1980;73
+1138;Eastern Europe & Central Asia;pol3;1980;79
+1139;Eastern Europe & Central Asia;rcv1;1980;0
+1140;Eastern Europe & Central Asia;bcg;1981;18
+1141;Eastern Europe & Central Asia;dtp1;1981;86
+1142;Eastern Europe & Central Asia;dtp3;1981;84
+1143;Eastern Europe & Central Asia;mcv1;1981;82
+1144;Eastern Europe & Central Asia;pol3;1981;86
+1145;Eastern Europe & Central Asia;rcv1;1981;0
+1146;Eastern Europe & Central Asia;bcg;1982;19
+1147;Eastern Europe & Central Asia;dtp1;1982;85
+1148;Eastern Europe & Central Asia;dtp3;1982;82
+1149;Eastern Europe & Central Asia;mcv1;1982;85
+1150;Eastern Europe & Central Asia;pol3;1982;82
+1151;Eastern Europe & Central Asia;rcv1;1982;0
+1152;Eastern Europe & Central Asia;bcg;1983;82
+1153;Eastern Europe & Central Asia;dtp1;1983;84
+1154;Eastern Europe & Central Asia;dtp3;1983;79
+1155;Eastern Europe & Central Asia;mcv1;1983;89
+1156;Eastern Europe & Central Asia;pol3;1983;80
+1157;Eastern Europe & Central Asia;rcv1;1983;3
+1158;Eastern Europe & Central Asia;bcg;1984;84
+1159;Eastern Europe & Central Asia;dtp1;1984;84
+1160;Eastern Europe & Central Asia;dtp3;1984;79
+1161;Eastern Europe & Central Asia;mcv1;1984;89
+1162;Eastern Europe & Central Asia;pol3;1984;80
+1163;Eastern Europe & Central Asia;rcv1;1984;3
+1164;Eastern Europe & Central Asia;bcg;1985;86
+1165;Eastern Europe & Central Asia;dtp1;1985;88
+1166;Eastern Europe & Central Asia;dtp3;1985;81
+1167;Eastern Europe & Central Asia;hepb3;1985;0
+1168;Eastern Europe & Central Asia;mcv1;1985;89
+1169;Eastern Europe & Central Asia;pol3;1985;90
+1170;Eastern Europe & Central Asia;rcv1;1985;3
+1171;Eastern Europe & Central Asia;bcg;1986;91
+1172;Eastern Europe & Central Asia;dtp1;1986;84
+1173;Eastern Europe & Central Asia;dtp3;1986;75
+1174;Eastern Europe & Central Asia;hepb3;1986;0
+1175;Eastern Europe & Central Asia;mcv1;1986;78
+1176;Eastern Europe & Central Asia;pol3;1986;76
+1177;Eastern Europe & Central Asia;rcv1;1986;3
+1178;Eastern Europe & Central Asia;bcg;1987;92
+1179;Eastern Europe & Central Asia;dtp1;1987;88
+1180;Eastern Europe & Central Asia;dtp3;1987;80
+1181;Eastern Europe & Central Asia;hepb3;1987;0
+1182;Eastern Europe & Central Asia;mcv1;1987;80
+1183;Eastern Europe & Central Asia;pol3;1987;82
+1184;Eastern Europe & Central Asia;rcv1;1987;3
+1185;Eastern Europe & Central Asia;bcg;1988;93
+1186;Eastern Europe & Central Asia;dtp1;1988;87
+1187;Eastern Europe & Central Asia;dtp3;1988;78
+1188;Eastern Europe & Central Asia;hepb3;1988;0
+1189;Eastern Europe & Central Asia;mcv1;1988;84
+1190;Eastern Europe & Central Asia;pol3;1988;80
+1191;Eastern Europe & Central Asia;rcv1;1988;3
+1192;Eastern Europe & Central Asia;bcg;1989;92
+1193;Eastern Europe & Central Asia;dtp1;1989;85
+1194;Eastern Europe & Central Asia;dtp3;1989;74
+1195;Eastern Europe & Central Asia;hepb3;1989;0
+1196;Eastern Europe & Central Asia;mcv1;1989;83
+1197;Eastern Europe & Central Asia;pol3;1989;78
+1198;Eastern Europe & Central Asia;rcv1;1989;3
+1199;Eastern Europe & Central Asia;bcg;1990;91
+1200;Eastern Europe & Central Asia;dtp1;1990;85
+1201;Eastern Europe & Central Asia;dtp3;1990;75
+1202;Eastern Europe & Central Asia;hepb3;1990;0
+1203;Eastern Europe & Central Asia;hib3;1990;0
+1204;Eastern Europe & Central Asia;mcv1;1990;85
+1205;Eastern Europe & Central Asia;pol3;1990;78
+1206;Eastern Europe & Central Asia;rcv1;1990;3
+1207;Eastern Europe & Central Asia;bcg;1991;91
+1208;Eastern Europe & Central Asia;dtp1;1991;88
+1209;Eastern Europe & Central Asia;dtp3;1991;79
+1210;Eastern Europe & Central Asia;hepb3;1991;0
+1211;Eastern Europe & Central Asia;hib3;1991;0
+1212;Eastern Europe & Central Asia;mcv1;1991;83
+1213;Eastern Europe & Central Asia;pol3;1991;76
+1214;Eastern Europe & Central Asia;rcv1;1991;3
+1215;Eastern Europe & Central Asia;bcg;1992;89
+1216;Eastern Europe & Central Asia;dtp1;1992;91
+1217;Eastern Europe & Central Asia;dtp3;1992;80
+1218;Eastern Europe & Central Asia;hepb3;1992;1
+1219;Eastern Europe & Central Asia;hib3;1992;0
+1220;Eastern Europe & Central Asia;mcv1;1992;82
+1221;Eastern Europe & Central Asia;pol3;1992;79
+1222;Eastern Europe & Central Asia;rcv1;1992;4
+1223;Eastern Europe & Central Asia;bcg;1993;89
+1224;Eastern Europe & Central Asia;dtp1;1993;90
+1225;Eastern Europe & Central Asia;dtp3;1993;75
+1226;Eastern Europe & Central Asia;hepb3;1993;1
+1227;Eastern Europe & Central Asia;hib3;1993;0
+1228;Eastern Europe & Central Asia;mcv1;1993;83
+1229;Eastern Europe & Central Asia;pol3;1993;77
+1230;Eastern Europe & Central Asia;rcv1;1993;3
+1231;Eastern Europe & Central Asia;bcg;1994;91
+1232;Eastern Europe & Central Asia;dtp1;1994;94
+1233;Eastern Europe & Central Asia;dtp3;1994;85
+1234;Eastern Europe & Central Asia;hepb3;1994;2
+1235;Eastern Europe & Central Asia;hib3;1994;0
+1236;Eastern Europe & Central Asia;mcv1;1994;81
+1237;Eastern Europe & Central Asia;pol3;1994;82
+1238;Eastern Europe & Central Asia;rcv1;1994;5
+1239;Eastern Europe & Central Asia;bcg;1995;92
+1240;Eastern Europe & Central Asia;dtp1;1995;92
+1241;Eastern Europe & Central Asia;dtp3;1995;82
+1242;Eastern Europe & Central Asia;hepb3;1995;3
+1243;Eastern Europe & Central Asia;hib3;1995;0
+1244;Eastern Europe & Central Asia;mcv1;1995;82
+1245;Eastern Europe & Central Asia;pol3;1995;82
+1246;Eastern Europe & Central Asia;rcv1;1995;5
+1247;Eastern Europe & Central Asia;bcg;1996;93
+1248;Eastern Europe & Central Asia;dtp1;1996;94
+1249;Eastern Europe & Central Asia;dtp3;1996;85
+1250;Eastern Europe & Central Asia;hepb3;1996;7
+1251;Eastern Europe & Central Asia;hib3;1996;0
+1252;Eastern Europe & Central Asia;mcv1;1996;85
+1253;Eastern Europe & Central Asia;pol3;1996;87
+1254;Eastern Europe & Central Asia;rcv1;1996;7
+1255;Eastern Europe & Central Asia;bcg;1997;93
+1256;Eastern Europe & Central Asia;dtp1;1997;95
+1257;Eastern Europe & Central Asia;dtp3;1997;89
+1258;Eastern Europe & Central Asia;hepb3;1997;7
+1259;Eastern Europe & Central Asia;hib3;1997;0
+1260;Eastern Europe & Central Asia;mcv1;1997;89
+1261;Eastern Europe & Central Asia;pol3;1997;90
+1262;Eastern Europe & Central Asia;rcv1;1997;7
+1263;Eastern Europe & Central Asia;bcg;1998;94
+1264;Eastern Europe & Central Asia;dtp1;1998;95
+1265;Eastern Europe & Central Asia;dtp3;1998;90
+1266;Eastern Europe & Central Asia;hepb3;1998;10
+1267;Eastern Europe & Central Asia;hib3;1998;0
+1268;Eastern Europe & Central Asia;mcv1;1998;90
+1269;Eastern Europe & Central Asia;pol3;1998;91
+1270;Eastern Europe & Central Asia;rcv1;1998;7
+1271;Eastern Europe & Central Asia;bcg;1999;95
+1272;Eastern Europe & Central Asia;dtp1;1999;95
+1273;Eastern Europe & Central Asia;dtp3;1999;91
+1274;Eastern Europe & Central Asia;hepb3;1999;11
+1275;Eastern Europe & Central Asia;hib3;1999;0
+1276;Eastern Europe & Central Asia;mcv1;1999;91
+1277;Eastern Europe & Central Asia;pol3;1999;91
+1278;Eastern Europe & Central Asia;rcv1;1999;7
+1279;Eastern Europe & Central Asia;bcg;2000;96
+1280;Eastern Europe & Central Asia;dtp1;2000;95
+1281;Eastern Europe & Central Asia;dtp3;2000;93
+1282;Eastern Europe & Central Asia;hepb3;2000;33
+1283;Eastern Europe & Central Asia;hepbb;2000;13
+1284;Eastern Europe & Central Asia;hib3;2000;0
+1285;Eastern Europe & Central Asia;mcv1;2000;93
+1286;Eastern Europe & Central Asia;mcv2;2000;63
+1287;Eastern Europe & Central Asia;pol3;2000;93
+1288;Eastern Europe & Central Asia;rcv1;2000;32
+1289;Eastern Europe & Central Asia;bcg;2001;96
+1290;Eastern Europe & Central Asia;dtp1;2001;96
+1291;Eastern Europe & Central Asia;dtp3;2001;93
+1292;Eastern Europe & Central Asia;hepb3;2001;47
+1293;Eastern Europe & Central Asia;hepbb;2001;17
+1294;Eastern Europe & Central Asia;hib3;2001;0
+1295;Eastern Europe & Central Asia;mcv1;2001;94
+1296;Eastern Europe & Central Asia;mcv2;2001;89
+1297;Eastern Europe & Central Asia;pol3;2001;94
+1298;Eastern Europe & Central Asia;rcv1;2001;43
+1299;Eastern Europe & Central Asia;bcg;2002;95
+1300;Eastern Europe & Central Asia;dtp1;2002;93
+1301;Eastern Europe & Central Asia;dtp3;2002;91
+1302;Eastern Europe & Central Asia;hepb3;2002;71
+1303;Eastern Europe & Central Asia;hepbb;2002;38
+1304;Eastern Europe & Central Asia;hib3;2002;1
+1305;Eastern Europe & Central Asia;mcv1;2002;92
+1306;Eastern Europe & Central Asia;mcv2;2002;90
+1307;Eastern Europe & Central Asia;pol3;2002;91
+1308;Eastern Europe & Central Asia;rcv1;2002;49
+1309;Eastern Europe & Central Asia;bcg;2003;95
+1310;Eastern Europe & Central Asia;dtp1;2003;91
+1311;Eastern Europe & Central Asia;dtp3;2003;87
+1312;Eastern Europe & Central Asia;hepb3;2003;80
+1313;Eastern Europe & Central Asia;hepbb;2003;59
+1314;Eastern Europe & Central Asia;hib3;2003;1
+1315;Eastern Europe & Central Asia;mcv1;2003;91
+1316;Eastern Europe & Central Asia;mcv2;2003;95
+1317;Eastern Europe & Central Asia;pol3;2003;88
+1318;Eastern Europe & Central Asia;rcv1;2003;51
+1319;Eastern Europe & Central Asia;bcg;2004;92
+1320;Eastern Europe & Central Asia;dtp1;2004;93
+1321;Eastern Europe & Central Asia;dtp3;2004;92
+1322;Eastern Europe & Central Asia;hepb3;2004;88
+1323;Eastern Europe & Central Asia;hepbb;2004;65
+1324;Eastern Europe & Central Asia;hib3;2004;1
+1325;Eastern Europe & Central Asia;mcv1;2004;92
+1326;Eastern Europe & Central Asia;mcv2;2004;96
+1327;Eastern Europe & Central Asia;pol3;2004;93
+1328;Eastern Europe & Central Asia;rcv1;2004;57
+1329;Eastern Europe & Central Asia;bcg;2005;93
+1330;Eastern Europe & Central Asia;dtp1;2005;96
+1331;Eastern Europe & Central Asia;dtp3;2005;95
+1332;Eastern Europe & Central Asia;hepb3;2005;91
+1333;Eastern Europe & Central Asia;hepbb;2005;68
+1334;Eastern Europe & Central Asia;hib3;2005;1
+1335;Eastern Europe & Central Asia;mcv1;2005;95
+1336;Eastern Europe & Central Asia;mcv2;2005;94
+1337;Eastern Europe & Central Asia;pol3;2005;95
+1338;Eastern Europe & Central Asia;rcv1;2005;58
+1339;Eastern Europe & Central Asia;bcg;2006;95
+1340;Eastern Europe & Central Asia;dtp1;2006;96
+1341;Eastern Europe & Central Asia;dtp3;2006;94
+1342;Eastern Europe & Central Asia;hepb3;2006;91
+1343;Eastern Europe & Central Asia;hepbb;2006;67
+1344;Eastern Europe & Central Asia;hib3;2006;3
+1345;Eastern Europe & Central Asia;mcv1;2006;96
+1346;Eastern Europe & Central Asia;mcv2;2006;89
+1347;Eastern Europe & Central Asia;pol3;2006;94
+1348;Eastern Europe & Central Asia;rcv1;2006;92
+1349;Eastern Europe & Central Asia;rotac;2006;0
+1350;Eastern Europe & Central Asia;bcg;2007;96
+1351;Eastern Europe & Central Asia;dtp1;2007;98
+1352;Eastern Europe & Central Asia;dtp3;2007;96
+1353;Eastern Europe & Central Asia;hepb3;2007;95
+1354;Eastern Europe & Central Asia;hepbb;2007;66
+1355;Eastern Europe & Central Asia;hib3;2007;24
+1356;Eastern Europe & Central Asia;mcv1;2007;97
+1357;Eastern Europe & Central Asia;mcv2;2007;90
+1358;Eastern Europe & Central Asia;pol3;2007;96
+1359;Eastern Europe & Central Asia;rcv1;2007;93
+1360;Eastern Europe & Central Asia;rotac;2007;0
+1361;Eastern Europe & Central Asia;bcg;2008;96
+1362;Eastern Europe & Central Asia;dtp1;2008;97
+1363;Eastern Europe & Central Asia;dtp3;2008;96
+1364;Eastern Europe & Central Asia;hepb3;2008;93
+1365;Eastern Europe & Central Asia;hepbb;2008;66
+1366;Eastern Europe & Central Asia;hib3;2008;36
+1367;Eastern Europe & Central Asia;mcv1;2008;97
+1368;Eastern Europe & Central Asia;mcv2;2008;87
+1369;Eastern Europe & Central Asia;pcv3;2008;0
+1370;Eastern Europe & Central Asia;pol3;2008;96
+1371;Eastern Europe & Central Asia;rcv1;2008;93
+1372;Eastern Europe & Central Asia;rotac;2008;0
+1373;Eastern Europe & Central Asia;bcg;2009;96
+1374;Eastern Europe & Central Asia;dtp1;2009;95
+1375;Eastern Europe & Central Asia;dtp3;2009;94
+1376;Eastern Europe & Central Asia;hepb3;2009;93
+1377;Eastern Europe & Central Asia;hepbb;2009;65
+1378;Eastern Europe & Central Asia;hib3;2009;51
+1379;Eastern Europe & Central Asia;mcv1;2009;95
+1380;Eastern Europe & Central Asia;mcv2;2009;83
+1381;Eastern Europe & Central Asia;pcv3;2009;21
+1382;Eastern Europe & Central Asia;pol3;2009;95
+1383;Eastern Europe & Central Asia;rcv1;2009;95
+1384;Eastern Europe & Central Asia;rotac;2009;0
+1385;Eastern Europe & Central Asia;bcg;2010;97
+1386;Eastern Europe & Central Asia;dtp1;2010;94
+1387;Eastern Europe & Central Asia;dtp3;2010;93
+1388;Eastern Europe & Central Asia;hepb3;2010;92
+1389;Eastern Europe & Central Asia;hepbb;2010;59
+1390;Eastern Europe & Central Asia;hib3;2010;55
+1391;Eastern Europe & Central Asia;mcv1;2010;94
+1392;Eastern Europe & Central Asia;mcv2;2010;87
+1393;Eastern Europe & Central Asia;pcv3;2010;21
+1394;Eastern Europe & Central Asia;pol3;2010;93
+1395;Eastern Europe & Central Asia;rcv1;2010;94
+1396;Eastern Europe & Central Asia;rotac;2010;0
+1397;Eastern Europe & Central Asia;bcg;2011;96
+1398;Eastern Europe & Central Asia;dtp1;2011;94
+1399;Eastern Europe & Central Asia;dtp3;2011;93
+1400;Eastern Europe & Central Asia;hepb3;2011;90
+1401;Eastern Europe & Central Asia;hepbb;2011;64
+1402;Eastern Europe & Central Asia;hib3;2011;58
+1403;Eastern Europe & Central Asia;mcv1;2011;95
+1404;Eastern Europe & Central Asia;mcv2;2011;91
+1405;Eastern Europe & Central Asia;pcv3;2011;22
+1406;Eastern Europe & Central Asia;pol3;2011;93
+1407;Eastern Europe & Central Asia;rcv1;2011;95
+1408;Eastern Europe & Central Asia;rotac;2011;0
+1409;Eastern Europe & Central Asia;bcg;2012;97
+1410;Eastern Europe & Central Asia;dtp1;2012;95
+1411;Eastern Europe & Central Asia;dtp3;2012;95
+1412;Eastern Europe & Central Asia;hepb3;2012;92
+1413;Eastern Europe & Central Asia;hepbb;2012;64
+1414;Eastern Europe & Central Asia;hib3;2012;65
+1415;Eastern Europe & Central Asia;mcv1;2012;95
+1416;Eastern Europe & Central Asia;mcv2;2012;90
+1417;Eastern Europe & Central Asia;pcv3;2012;24
+1418;Eastern Europe & Central Asia;pol3;2012;95
+1419;Eastern Europe & Central Asia;rcv1;2012;95
+1420;Eastern Europe & Central Asia;rotac;2012;0
+1421;Eastern Europe & Central Asia;bcg;2013;97
+1422;Eastern Europe & Central Asia;dtp1;2013;96
+1423;Eastern Europe & Central Asia;dtp3;2013;95
+1424;Eastern Europe & Central Asia;hepb3;2013;93
+1425;Eastern Europe & Central Asia;hepbb;2013;64
+1426;Eastern Europe & Central Asia;hib3;2013;65
+1427;Eastern Europe & Central Asia;mcv1;2013;96
+1428;Eastern Europe & Central Asia;mcv2;2013;93
+1429;Eastern Europe & Central Asia;pcv3;2013;25
+1430;Eastern Europe & Central Asia;pol3;2013;95
+1431;Eastern Europe & Central Asia;rcv1;2013;96
+1432;Eastern Europe & Central Asia;rotac;2013;1
+1433;Eastern Europe & Central Asia;bcg;2014;92
+1434;Eastern Europe & Central Asia;dtp1;2014;94
+1435;Eastern Europe & Central Asia;dtp3;2014;91
+1436;Eastern Europe & Central Asia;hepb3;2014;91
+1437;Eastern Europe & Central Asia;hepbb;2014;64
+1438;Eastern Europe & Central Asia;hib3;2014;61
+1439;Eastern Europe & Central Asia;mcv1;2014;93
+1440;Eastern Europe & Central Asia;mcv2;2014;91
+1441;Eastern Europe & Central Asia;pcv3;2014;27
+1442;Eastern Europe & Central Asia;pol3;2014;92
+1443;Eastern Europe & Central Asia;rcv1;2014;93
+1444;Eastern Europe & Central Asia;rotac;2014;7
+1445;Eastern Europe & Central Asia;bcg;2015;92
+1446;Eastern Europe & Central Asia;dtp1;2015;95
+1447;Eastern Europe & Central Asia;dtp3;2015;91
+1448;Eastern Europe & Central Asia;hepb3;2015;91
+1449;Eastern Europe & Central Asia;hepbb;2015;64
+1450;Eastern Europe & Central Asia;hib3;2015;61
+1451;Eastern Europe & Central Asia;ipv1;2015;68
+1452;Eastern Europe & Central Asia;mcv1;2015;94
+1453;Eastern Europe & Central Asia;mcv2;2015;90
+1454;Eastern Europe & Central Asia;pcv3;2015;30
+1455;Eastern Europe & Central Asia;pol3;2015;93
+1456;Eastern Europe & Central Asia;rcv1;2015;94
+1457;Eastern Europe & Central Asia;rotac;2015;16
+1458;Eastern Europe & Central Asia;bcg;2016;95
+1459;Eastern Europe & Central Asia;dtp1;2016;93
+1460;Eastern Europe & Central Asia;dtp3;2016;90
+1461;Eastern Europe & Central Asia;hepb3;2016;91
+1462;Eastern Europe & Central Asia;hepbb;2016;62
+1463;Eastern Europe & Central Asia;hib3;2016;61
+1464;Eastern Europe & Central Asia;ipv1;2016;72
+1465;Eastern Europe & Central Asia;mcv1;2016;93
+1466;Eastern Europe & Central Asia;mcv2;2016;88
+1467;Eastern Europe & Central Asia;pcv3;2016;55
+1468;Eastern Europe & Central Asia;pol3;2016;93
+1469;Eastern Europe & Central Asia;rcv1;2016;93
+1470;Eastern Europe & Central Asia;rotac;2016;17
+1471;Eastern Europe & Central Asia;bcg;2017;95
+1472;Eastern Europe & Central Asia;dtp1;2017;95
+1473;Eastern Europe & Central Asia;dtp3;2017;93
+1474;Eastern Europe & Central Asia;hepb3;2017;93
+1475;Eastern Europe & Central Asia;hepbb;2017;62
+1476;Eastern Europe & Central Asia;hib3;2017;61
+1477;Eastern Europe & Central Asia;ipv1;2017;70
+1478;Eastern Europe & Central Asia;mcv1;2017;96
+1479;Eastern Europe & Central Asia;mcv2;2017;93
+1480;Eastern Europe & Central Asia;pcv3;2017;67
+1481;Eastern Europe & Central Asia;pol3;2017;93
+1482;Eastern Europe & Central Asia;rcv1;2017;96
+1483;Eastern Europe & Central Asia;rotac;2017;17
+1484;Eastern Europe & Central Asia;bcg;2018;96
+1485;Eastern Europe & Central Asia;dtp1;2018;96
+1486;Eastern Europe & Central Asia;dtp3;2018;93
+1487;Eastern Europe & Central Asia;hepb3;2018;94
+1488;Eastern Europe & Central Asia;hepbb;2018;62
+1489;Eastern Europe & Central Asia;hib3;2018;61
+1490;Eastern Europe & Central Asia;ipv1;2018;84
+1491;Eastern Europe & Central Asia;mcv1;2018;96
+1492;Eastern Europe & Central Asia;mcv2;2018;94
+1493;Eastern Europe & Central Asia;pcv3;2018;72
+1494;Eastern Europe & Central Asia;pol3;2018;93
+1495;Eastern Europe & Central Asia;rcv1;2018;96
+1496;Eastern Europe & Central Asia;rotac;2018;16
+1497;Latin America & Caribbean;bcg;1980;53
+1498;Latin America & Caribbean;dtp1;1980;61
+1499;Latin America & Caribbean;dtp3;1980;37
+1500;Latin America & Caribbean;mcv1;1980;42
+1501;Latin America & Caribbean;pol3;1980;60
+1502;Latin America & Caribbean;rcv1;1980;0
+1503;Latin America & Caribbean;bcg;1981;58
+1504;Latin America & Caribbean;dtp1;1981;66
+1505;Latin America & Caribbean;dtp3;1981;42
+1506;Latin America & Caribbean;mcv1;1981;48
+1507;Latin America & Caribbean;pol3;1981;52
+1508;Latin America & Caribbean;rcv1;1981;0
+1509;Latin America & Caribbean;bcg;1982;62
+1510;Latin America & Caribbean;dtp1;1982;69
+1511;Latin America & Caribbean;dtp3;1982;47
+1512;Latin America & Caribbean;mcv1;1982;48
+1513;Latin America & Caribbean;pol3;1982;58
+1514;Latin America & Caribbean;rcv1;1982;0
+1515;Latin America & Caribbean;bcg;1983;64
+1516;Latin America & Caribbean;dtp1;1983;72
+1517;Latin America & Caribbean;dtp3;1983;49
+1518;Latin America & Caribbean;mcv1;1983;47
+1519;Latin America & Caribbean;pol3;1983;60
+1520;Latin America & Caribbean;rcv1;1983;0
+1521;Latin America & Caribbean;bcg;1984;67
+1522;Latin America & Caribbean;dtp1;1984;77
+1523;Latin America & Caribbean;dtp3;1984;56
+1524;Latin America & Caribbean;mcv1;1984;52
+1525;Latin America & Caribbean;pol3;1984;67
+1526;Latin America & Caribbean;rcv1;1984;0
+1527;Latin America & Caribbean;bcg;1985;58
+1528;Latin America & Caribbean;dtp1;1985;77
+1529;Latin America & Caribbean;dtp3;1985;55
+1530;Latin America & Caribbean;hepb3;1985;0
+1531;Latin America & Caribbean;mcv1;1985;60
+1532;Latin America & Caribbean;pol3;1985;59
+1533;Latin America & Caribbean;rcv1;1985;0
+1534;Latin America & Caribbean;bcg;1986;67
+1535;Latin America & Caribbean;dtp1;1986;78
+1536;Latin America & Caribbean;dtp3;1986;56
+1537;Latin America & Caribbean;hepb3;1986;0
+1538;Latin America & Caribbean;mcv1;1986;61
+1539;Latin America & Caribbean;pol3;1986;65
+1540;Latin America & Caribbean;rcv1;1986;2
+1541;Latin America & Caribbean;bcg;1987;71
+1542;Latin America & Caribbean;dtp1;1987;80
+1543;Latin America & Caribbean;dtp3;1987;59
+1544;Latin America & Caribbean;hepb3;1987;0
+1545;Latin America & Caribbean;mcv1;1987;60
+1546;Latin America & Caribbean;pol3;1987;68
+1547;Latin America & Caribbean;rcv1;1987;3
+1548;Latin America & Caribbean;bcg;1988;76
+1549;Latin America & Caribbean;dtp1;1988;82
+1550;Latin America & Caribbean;dtp3;1988;62
+1551;Latin America & Caribbean;hepb3;1988;0
+1552;Latin America & Caribbean;mcv1;1988;66
+1553;Latin America & Caribbean;pol3;1988;74
+1554;Latin America & Caribbean;rcv1;1988;3
+1555;Latin America & Caribbean;bcg;1989;78
+1556;Latin America & Caribbean;dtp1;1989;84
+1557;Latin America & Caribbean;dtp3;1989;64
+1558;Latin America & Caribbean;hepb3;1989;0
+1559;Latin America & Caribbean;mcv1;1989;70
+1560;Latin America & Caribbean;pol3;1989;73
+1561;Latin America & Caribbean;rcv1;1989;3
+1562;Latin America & Caribbean;bcg;1990;79
+1563;Latin America & Caribbean;dtp1;1990;86
+1564;Latin America & Caribbean;dtp3;1990;68
+1565;Latin America & Caribbean;hepb3;1990;0
+1566;Latin America & Caribbean;hib3;1990;0
+1567;Latin America & Caribbean;mcv1;1990;76
+1568;Latin America & Caribbean;pol3;1990;70
+1569;Latin America & Caribbean;rcv1;1990;5
+1570;Latin America & Caribbean;bcg;1991;86
+1571;Latin America & Caribbean;dtp1;1991;91
+1572;Latin America & Caribbean;dtp3;1991;78
+1573;Latin America & Caribbean;hepb3;1991;0
+1574;Latin America & Caribbean;hib3;1991;0
+1575;Latin America & Caribbean;mcv1;1991;80
+1576;Latin America & Caribbean;pol3;1991;76
+1577;Latin America & Caribbean;rcv1;1991;6
+1578;Latin America & Caribbean;bcg;1992;89
+1579;Latin America & Caribbean;dtp1;1992;91
+1580;Latin America & Caribbean;dtp3;1992;77
+1581;Latin America & Caribbean;hepb3;1992;0
+1582;Latin America & Caribbean;hib3;1992;0
+1583;Latin America & Caribbean;mcv1;1992;83
+1584;Latin America & Caribbean;pol3;1992;77
+1585;Latin America & Caribbean;rcv1;1992;6
+1586;Latin America & Caribbean;bcg;1993;92
+1587;Latin America & Caribbean;dtp1;1993;92
+1588;Latin America & Caribbean;dtp3;1993;79
+1589;Latin America & Caribbean;hepb3;1993;1
+1590;Latin America & Caribbean;hib3;1993;0
+1591;Latin America & Caribbean;mcv1;1993;82
+1592;Latin America & Caribbean;pol3;1993;76
+1593;Latin America & Caribbean;rcv1;1993;6
+1594;Latin America & Caribbean;bcg;1994;94
+1595;Latin America & Caribbean;dtp1;1994;80
+1596;Latin America & Caribbean;dtp3;1994;80
+1597;Latin America & Caribbean;hepb3;1994;3
+1598;Latin America & Caribbean;hib3;1994;0
+1599;Latin America & Caribbean;mcv1;1994;82
+1600;Latin America & Caribbean;pol3;1994;80
+1601;Latin America & Caribbean;rcv1;1994;6
+1602;Latin America & Caribbean;bcg;1995;96
+1603;Latin America & Caribbean;dtp1;1995;91
+1604;Latin America & Caribbean;dtp3;1995;83
+1605;Latin America & Caribbean;hepb3;1995;10
+1606;Latin America & Caribbean;hib3;1995;0
+1607;Latin America & Caribbean;mcv1;1995;86
+1608;Latin America & Caribbean;pol3;1995;84
+1609;Latin America & Caribbean;rcv1;1995;14
+1610;Latin America & Caribbean;bcg;1996;96
+1611;Latin America & Caribbean;dtp1;1996;88
+1612;Latin America & Caribbean;dtp3;1996;82
+1613;Latin America & Caribbean;hepb3;1996;13
+1614;Latin America & Caribbean;hib3;1996;2
+1615;Latin America & Caribbean;mcv1;1996;84
+1616;Latin America & Caribbean;pol3;1996;84
+1617;Latin America & Caribbean;rcv1;1996;13
+1618;Latin America & Caribbean;bcg;1997;96
+1619;Latin America & Caribbean;dtp1;1997;95
+1620;Latin America & Caribbean;dtp3;1997;83
+1621;Latin America & Caribbean;hepb3;1997;10
+1622;Latin America & Caribbean;hib3;1997;3
+1623;Latin America & Caribbean;mcv1;1997;89
+1624;Latin America & Caribbean;pol3;1997;87
+1625;Latin America & Caribbean;rcv1;1997;23
+1626;Latin America & Caribbean;yfv;1997;0
+1627;Latin America & Caribbean;bcg;1998;95
+1628;Latin America & Caribbean;dtp1;1998;96
+1629;Latin America & Caribbean;dtp3;1998;86
+1630;Latin America & Caribbean;hepb3;1998;13
+1631;Latin America & Caribbean;hib3;1998;11
+1632;Latin America & Caribbean;mcv1;1998;91
+1633;Latin America & Caribbean;pol3;1998;88
+1634;Latin America & Caribbean;rcv1;1998;49
+1635;Latin America & Caribbean;yfv;1998;22
+1636;Latin America & Caribbean;bcg;1999;96
+1637;Latin America & Caribbean;dtp1;1999;97
+1638;Latin America & Caribbean;dtp3;1999;89
+1639;Latin America & Caribbean;hepb3;1999;36
+1640;Latin America & Caribbean;hib3;1999;17
+1641;Latin America & Caribbean;mcv1;1999;92
+1642;Latin America & Caribbean;pol3;1999;91
+1643;Latin America & Caribbean;rcv1;1999;49
+1644;Latin America & Caribbean;yfv;1999;22
+1645;Latin America & Caribbean;bcg;2000;96
+1646;Latin America & Caribbean;dtp1;2000;96
+1647;Latin America & Caribbean;dtp3;2000;91
+1648;Latin America & Caribbean;hepb3;2000;65
+1649;Latin America & Caribbean;hepbb;2000;32
+1650;Latin America & Caribbean;hib3;2000;69
+1651;Latin America & Caribbean;mcv1;2000;93
+1652;Latin America & Caribbean;mcv2;2000;60
+1653;Latin America & Caribbean;pol3;2000;91
+1654;Latin America & Caribbean;rcv1;2000;82
+1655;Latin America & Caribbean;yfv;2000;24
+1656;Latin America & Caribbean;bcg;2001;95
+1657;Latin America & Caribbean;dtp1;2001;95
+1658;Latin America & Caribbean;dtp3;2001;90
+1659;Latin America & Caribbean;hepb3;2001;68
+1660;Latin America & Caribbean;hepbb;2001;34
+1661;Latin America & Caribbean;hib3;2001;72
+1662;Latin America & Caribbean;mcv1;2001;95
+1663;Latin America & Caribbean;mcv2;2001;61
+1664;Latin America & Caribbean;pol3;2001;92
+1665;Latin America & Caribbean;rcv1;2001;87
+1666;Latin America & Caribbean;yfv;2001;28
+1667;Latin America & Caribbean;bcg;2002;95
+1668;Latin America & Caribbean;dtp1;2002;96
+1669;Latin America & Caribbean;dtp3;2002;91
+1670;Latin America & Caribbean;hepb3;2002;73
+1671;Latin America & Caribbean;hepbb;2002;33
+1672;Latin America & Caribbean;hib3;2002;76
+1673;Latin America & Caribbean;mcv1;2002;93
+1674;Latin America & Caribbean;mcv2;2002;57
+1675;Latin America & Caribbean;pol3;2002;92
+1676;Latin America & Caribbean;rcv1;2002;86
+1677;Latin America & Caribbean;yfv;2002;18
+1678;Latin America & Caribbean;bcg;2003;97
+1679;Latin America & Caribbean;dtp1;2003;96
+1680;Latin America & Caribbean;dtp3;2003;93
+1681;Latin America & Caribbean;hepb3;2003;82
+1682;Latin America & Caribbean;hepbb;2003;36
+1683;Latin America & Caribbean;hib3;2003;82
+1684;Latin America & Caribbean;mcv1;2003;94
+1685;Latin America & Caribbean;mcv2;2003;55
+1686;Latin America & Caribbean;pol3;2003;94
+1687;Latin America & Caribbean;rcv1;2003;91
+1688;Latin America & Caribbean;yfv;2003;32
+1689;Latin America & Caribbean;bcg;2004;97
+1690;Latin America & Caribbean;dtp1;2004;96
+1691;Latin America & Caribbean;dtp3;2004;93
+1692;Latin America & Caribbean;hepb3;2004;85
+1693;Latin America & Caribbean;hepbb;2004;42
+1694;Latin America & Caribbean;hib3;2004;87
+1695;Latin America & Caribbean;mcv1;2004;93
+1696;Latin America & Caribbean;mcv2;2004;57
+1697;Latin America & Caribbean;pol3;2004;92
+1698;Latin America & Caribbean;rcv1;2004;92
+1699;Latin America & Caribbean;yfv;2004;34
+1700;Latin America & Caribbean;bcg;2005;97
+1701;Latin America & Caribbean;dtp1;2005;97
+1702;Latin America & Caribbean;dtp3;2005;94
+1703;Latin America & Caribbean;hepb3;2005;90
+1704;Latin America & Caribbean;hepbb;2005;43
+1705;Latin America & Caribbean;hib3;2005;92
+1706;Latin America & Caribbean;mcv1;2005;93
+1707;Latin America & Caribbean;mcv2;2005;55
+1708;Latin America & Caribbean;pol3;2005;92
+1709;Latin America & Caribbean;rcv1;2005;91
+1710;Latin America & Caribbean;yfv;2005;40
+1711;Latin America & Caribbean;bcg;2006;96
+1712;Latin America & Caribbean;dtp1;2006;96
+1713;Latin America & Caribbean;dtp3;2006;93
+1714;Latin America & Caribbean;hepb3;2006;91
+1715;Latin America & Caribbean;hepbb;2006;43
+1716;Latin America & Caribbean;hib3;2006;91
+1717;Latin America & Caribbean;mcv1;2006;94
+1718;Latin America & Caribbean;mcv2;2006;54
+1719;Latin America & Caribbean;pol3;2006;94
+1720;Latin America & Caribbean;rcv1;2006;93
+1721;Latin America & Caribbean;rotac;2006;15
+1722;Latin America & Caribbean;yfv;2006;52
+1723;Latin America & Caribbean;bcg;2007;96
+1724;Latin America & Caribbean;dtp1;2007;95
+1725;Latin America & Caribbean;dtp3;2007;93
+1726;Latin America & Caribbean;hepb3;2007;90
+1727;Latin America & Caribbean;hepbb;2007;44
+1728;Latin America & Caribbean;hib3;2007;91
+1729;Latin America & Caribbean;mcv1;2007;94
+1730;Latin America & Caribbean;mcv2;2007;52
+1731;Latin America & Caribbean;pol3;2007;93
+1732;Latin America & Caribbean;rcv1;2007;92
+1733;Latin America & Caribbean;rotac;2007;27
+1734;Latin America & Caribbean;yfv;2007;52
+1735;Latin America & Caribbean;bcg;2008;97
+1736;Latin America & Caribbean;dtp1;2008;97
+1737;Latin America & Caribbean;dtp3;2008;92
+1738;Latin America & Caribbean;hepb3;2008;90
+1739;Latin America & Caribbean;hepbb;2008;45
+1740;Latin America & Caribbean;hib3;2008;90
+1741;Latin America & Caribbean;mcv1;2008;95
+1742;Latin America & Caribbean;mcv2;2008;55
+1743;Latin America & Caribbean;pcv3;2008;3
+1744;Latin America & Caribbean;pol3;2008;94
+1745;Latin America & Caribbean;rcv1;2008;95
+1746;Latin America & Caribbean;rotac;2008;42
+1747;Latin America & Caribbean;yfv;2008;51
+1748;Latin America & Caribbean;bcg;2009;97
+1749;Latin America & Caribbean;dtp1;2009;96
+1750;Latin America & Caribbean;dtp3;2009;94
+1751;Latin America & Caribbean;hepb3;2009;92
+1752;Latin America & Caribbean;hepbb;2009;44
+1753;Latin America & Caribbean;hib3;2009;92
+1754;Latin America & Caribbean;mcv1;2009;94
+1755;Latin America & Caribbean;mcv2;2009;60
+1756;Latin America & Caribbean;pcv3;2009;11
+1757;Latin America & Caribbean;pol3;2009;93
+1758;Latin America & Caribbean;rcv1;2009;94
+1759;Latin America & Caribbean;rotac;2009;62
+1760;Latin America & Caribbean;yfv;2009;44
+1761;Latin America & Caribbean;bcg;2010;96
+1762;Latin America & Caribbean;dtp1;2010;96
+1763;Latin America & Caribbean;dtp3;2010;93
+1764;Latin America & Caribbean;hepb3;2010;90
+1765;Latin America & Caribbean;hepbb;2010;63
+1766;Latin America & Caribbean;hib3;2010;91
+1767;Latin America & Caribbean;mcv1;2010;93
+1768;Latin America & Caribbean;mcv2;2010;60
+1769;Latin America & Caribbean;pcv3;2010;35
+1770;Latin America & Caribbean;pol3;2010;93
+1771;Latin America & Caribbean;rcv1;2010;93
+1772;Latin America & Caribbean;rotac;2010;66
+1773;Latin America & Caribbean;yfv;2010;46
+1774;Latin America & Caribbean;bcg;2011;96
+1775;Latin America & Caribbean;dtp1;2011;96
+1776;Latin America & Caribbean;dtp3;2011;93
+1777;Latin America & Caribbean;hepb3;2011;91
+1778;Latin America & Caribbean;hepbb;2011;67
+1779;Latin America & Caribbean;hib3;2011;91
+1780;Latin America & Caribbean;mcv1;2011;95
+1781;Latin America & Caribbean;mcv2;2011;67
+1782;Latin America & Caribbean;pcv3;2011;60
+1783;Latin America & Caribbean;pol3;2011;93
+1784;Latin America & Caribbean;rcv1;2011;95
+1785;Latin America & Caribbean;rotac;2011;73
+1786;Latin America & Caribbean;yfv;2011;49
+1787;Latin America & Caribbean;bcg;2012;97
+1788;Latin America & Caribbean;dtp1;2012;96
+1789;Latin America & Caribbean;dtp3;2012;93
+1790;Latin America & Caribbean;hepb3;2012;92
+1791;Latin America & Caribbean;hepbb;2012;65
+1792;Latin America & Caribbean;hib3;2012;91
+1793;Latin America & Caribbean;mcv1;2012;95
+1794;Latin America & Caribbean;mcv2;2012;66
+1795;Latin America & Caribbean;pcv3;2012;71
+1796;Latin America & Caribbean;pol3;2012;93
+1797;Latin America & Caribbean;rcv1;2012;95
+1798;Latin America & Caribbean;rotac;2012;75
+1799;Latin America & Caribbean;yfv;2012;54
+1800;Latin America & Caribbean;bcg;2013;94
+1801;Latin America & Caribbean;dtp1;2013;94
+1802;Latin America & Caribbean;dtp3;2013;90
+1803;Latin America & Caribbean;hepb3;2013;89
+1804;Latin America & Caribbean;hepbb;2013;66
+1805;Latin America & Caribbean;hib3;2013;90
+1806;Latin America & Caribbean;mcv1;2013;92
+1807;Latin America & Caribbean;mcv2;2013;61
+1808;Latin America & Caribbean;pcv3;2013;74
+1809;Latin America & Caribbean;pol3;2013;88
+1810;Latin America & Caribbean;rcv1;2013;92
+1811;Latin America & Caribbean;rotac;2013;73
+1812;Latin America & Caribbean;yfv;2013;55
+1813;Latin America & Caribbean;bcg;2014;96
+1814;Latin America & Caribbean;dtp1;2014;95
+1815;Latin America & Caribbean;dtp3;2014;89
+1816;Latin America & Caribbean;hepb3;2014;89
+1817;Latin America & Caribbean;hepbb;2014;67
+1818;Latin America & Caribbean;hib3;2014;89
+1819;Latin America & Caribbean;mcv1;2014;93
+1820;Latin America & Caribbean;mcv2;2014;73
+1821;Latin America & Caribbean;pcv3;2014;79
+1822;Latin America & Caribbean;pol3;2014;89
+1823;Latin America & Caribbean;rcv1;2014;93
+1824;Latin America & Caribbean;rotac;2014;74
+1825;Latin America & Caribbean;yfv;2014;56
+1826;Latin America & Caribbean;bcg;2015;96
+1827;Latin America & Caribbean;dtp1;2015;96
+1828;Latin America & Caribbean;dtp3;2015;90
+1829;Latin America & Caribbean;hepb3;2015;89
+1830;Latin America & Caribbean;hepbb;2015;70
+1831;Latin America & Caribbean;hib3;2015;90
+1832;Latin America & Caribbean;ipv1;2015;62
+1833;Latin America & Caribbean;mcv1;2015;93
+1834;Latin America & Caribbean;mcv2;2015;71
+1835;Latin America & Caribbean;pcv3;2015;82
+1836;Latin America & Caribbean;pol3;2015;91
+1837;Latin America & Caribbean;rcv1;2015;93
+1838;Latin America & Caribbean;rotac;2015;80
+1839;Latin America & Caribbean;yfv;2015;55
+1840;Latin America & Caribbean;bcg;2016;93
+1841;Latin America & Caribbean;dtp1;2016;95
+1842;Latin America & Caribbean;dtp3;2016;89
+1843;Latin America & Caribbean;hepb3;2016;89
+1844;Latin America & Caribbean;hepbb;2016;67
+1845;Latin America & Caribbean;hib3;2016;89
+1846;Latin America & Caribbean;ipv1;2016;85
+1847;Latin America & Caribbean;mcv1;2016;92
+1848;Latin America & Caribbean;mcv2;2016;74
+1849;Latin America & Caribbean;pcv3;2016;78
+1850;Latin America & Caribbean;pol3;2016;85
+1851;Latin America & Caribbean;rcv1;2016;92
+1852;Latin America & Caribbean;rotac;2016;76
+1853;Latin America & Caribbean;yfv;2016;53
+1854;Latin America & Caribbean;bcg;2017;91
+1855;Latin America & Caribbean;dtp1;2017;95
+1856;Latin America & Caribbean;dtp3;2017;86
+1857;Latin America & Caribbean;hepb3;2017;81
+1858;Latin America & Caribbean;hepbb;2017;71
+1859;Latin America & Caribbean;hib3;2017;87
+1860;Latin America & Caribbean;ipv1;2017;92
+1861;Latin America & Caribbean;mcv1;2017;87
+1862;Latin America & Caribbean;mcv2;2017;69
+1863;Latin America & Caribbean;pcv3;2017;78
+1864;Latin America & Caribbean;pol3;2017;82
+1865;Latin America & Caribbean;rcv1;2017;87
+1866;Latin America & Caribbean;rotac;2017;69
+1867;Latin America & Caribbean;yfv;2017;59
+1868;Latin America & Caribbean;bcg;2018;91
+1869;Latin America & Caribbean;dtp1;2018;90
+1870;Latin America & Caribbean;dtp3;2018;85
+1871;Latin America & Caribbean;hepb3;2018;78
+1872;Latin America & Caribbean;hepbb;2018;72
+1873;Latin America & Caribbean;hib3;2018;85
+1874;Latin America & Caribbean;ipv1;2018;86
+1875;Latin America & Caribbean;mcv1;2018;89
+1876;Latin America & Caribbean;mcv2;2018;77
+1877;Latin America & Caribbean;pcv3;2018;79
+1878;Latin America & Caribbean;pol3;2018;85
+1879;Latin America & Caribbean;rcv1;2018;89
+1880;Latin America & Caribbean;rotac;2018;73
+1881;Latin America & Caribbean;yfv;2018;54
+1882;Middle East & North Africa;bcg;1980;26
+1883;Middle East & North Africa;dtp1;1980;45
+1884;Middle East & North Africa;dtp3;1980;27
+1885;Middle East & North Africa;mcv1;1980;23
+1886;Middle East & North Africa;pol3;1980;31
+1887;Middle East & North Africa;rcv1;1980;0
+1888;Middle East & North Africa;bcg;1981;27
+1889;Middle East & North Africa;dtp1;1981;46
+1890;Middle East & North Africa;dtp3;1981;29
+1891;Middle East & North Africa;mcv1;1981;26
+1892;Middle East & North Africa;pol3;1981;38
+1893;Middle East & North Africa;rcv1;1981;0
+1894;Middle East & North Africa;bcg;1982;37
+1895;Middle East & North Africa;dtp1;1982;55
+1896;Middle East & North Africa;dtp3;1982;36
+1897;Middle East & North Africa;mcv1;1982;34
+1898;Middle East & North Africa;pol3;1982;49
+1899;Middle East & North Africa;rcv1;1982;0
+1900;Middle East & North Africa;bcg;1983;40
+1901;Middle East & North Africa;dtp1;1983;57
+1902;Middle East & North Africa;dtp3;1983;37
+1903;Middle East & North Africa;mcv1;1983;33
+1904;Middle East & North Africa;pol3;1983;43
+1905;Middle East & North Africa;rcv1;1983;0
+1906;Middle East & North Africa;bcg;1984;43
+1907;Middle East & North Africa;dtp1;1984;63
+1908;Middle East & North Africa;dtp3;1984;45
+1909;Middle East & North Africa;mcv1;1984;37
+1910;Middle East & North Africa;pol3;1984;50
+1911;Middle East & North Africa;rcv1;1984;0
+1912;Middle East & North Africa;bcg;1985;77
+1913;Middle East & North Africa;dtp1;1985;81
+1914;Middle East & North Africa;dtp3;1985;63
+1915;Middle East & North Africa;hepb3;1985;0
+1916;Middle East & North Africa;mcv1;1985;61
+1917;Middle East & North Africa;pol3;1985;66
+1918;Middle East & North Africa;rcv1;1985;0
+1919;Middle East & North Africa;bcg;1986;74
+1920;Middle East & North Africa;dtp1;1986;85
+1921;Middle East & North Africa;dtp3;1986;69
+1922;Middle East & North Africa;hepb3;1986;0
+1923;Middle East & North Africa;mcv1;1986;64
+1924;Middle East & North Africa;pol3;1986;72
+1925;Middle East & North Africa;rcv1;1986;0
+1926;Middle East & North Africa;bcg;1987;74
+1927;Middle East & North Africa;dtp1;1987;86
+1928;Middle East & North Africa;dtp3;1987;71
+1929;Middle East & North Africa;hepb3;1987;0
+1930;Middle East & North Africa;mcv1;1987;66
+1931;Middle East & North Africa;pol3;1987;71
+1932;Middle East & North Africa;rcv1;1987;1
+1933;Middle East & North Africa;bcg;1988;86
+1934;Middle East & North Africa;dtp1;1988;92
+1935;Middle East & North Africa;dtp3;1988;82
+1936;Middle East & North Africa;hepb3;1988;0
+1937;Middle East & North Africa;mcv1;1988;78
+1938;Middle East & North Africa;pol3;1988;83
+1939;Middle East & North Africa;rcv1;1988;1
+1940;Middle East & North Africa;bcg;1989;88
+1941;Middle East & North Africa;dtp1;1989;94
+1942;Middle East & North Africa;dtp3;1989;85
+1943;Middle East & North Africa;hepb3;1989;0
+1944;Middle East & North Africa;mcv1;1989;81
+1945;Middle East & North Africa;pol3;1989;85
+1946;Middle East & North Africa;rcv1;1989;1
+1947;Middle East & North Africa;bcg;1990;94
+1948;Middle East & North Africa;dtp1;1990;95
+1949;Middle East & North Africa;dtp3;1990;88
+1950;Middle East & North Africa;hepb3;1990;5
+1951;Middle East & North Africa;hib3;1990;0
+1952;Middle East & North Africa;mcv1;1990;83
+1953;Middle East & North Africa;pol3;1990;88
+1954;Middle East & North Africa;rcv1;1990;1
+1955;Middle East & North Africa;bcg;1991;91
+1956;Middle East & North Africa;dtp1;1991;92
+1957;Middle East & North Africa;dtp3;1991;81
+1958;Middle East & North Africa;hepb3;1991;7
+1959;Middle East & North Africa;hib3;1991;0
+1960;Middle East & North Africa;mcv1;1991;83
+1961;Middle East & North Africa;pol3;1991;84
+1962;Middle East & North Africa;rcv1;1991;7
+1963;Middle East & North Africa;bcg;1992;92
+1964;Middle East & North Africa;dtp1;1992;93
+1965;Middle East & North Africa;dtp3;1992;84
+1966;Middle East & North Africa;hepb3;1992;11
+1967;Middle East & North Africa;hib3;1992;0
+1968;Middle East & North Africa;mcv1;1992;84
+1969;Middle East & North Africa;pol3;1992;87
+1970;Middle East & North Africa;rcv1;1992;7
+1971;Middle East & North Africa;bcg;1993;91
+1972;Middle East & North Africa;dtp1;1993;93
+1973;Middle East & North Africa;dtp3;1993;85
+1974;Middle East & North Africa;hepb3;1993;13
+1975;Middle East & North Africa;hib3;1993;0
+1976;Middle East & North Africa;mcv1;1993;85
+1977;Middle East & North Africa;pol3;1993;87
+1978;Middle East & North Africa;rcv1;1993;7
+1979;Middle East & North Africa;bcg;1994;91
+1980;Middle East & North Africa;dtp1;1994;92
+1981;Middle East & North Africa;dtp3;1994;83
+1982;Middle East & North Africa;hepb3;1994;43
+1983;Middle East & North Africa;hib3;1994;1
+1984;Middle East & North Africa;mcv1;1994;84
+1985;Middle East & North Africa;pol3;1994;85
+1986;Middle East & North Africa;rcv1;1994;8
+1987;Middle East & North Africa;bcg;1995;91
+1988;Middle East & North Africa;dtp1;1995;93
+1989;Middle East & North Africa;dtp3;1995;86
+1990;Middle East & North Africa;hepb3;1995;51
+1991;Middle East & North Africa;hib3;1995;1
+1992;Middle East & North Africa;mcv1;1995;85
+1993;Middle East & North Africa;pol3;1995;87
+1994;Middle East & North Africa;rcv1;1995;20
+1995;Middle East & North Africa;bcg;1996;91
+1996;Middle East & North Africa;dtp1;1996;94
+1997;Middle East & North Africa;dtp3;1996;88
+1998;Middle East & North Africa;hepb3;1996;55
+1999;Middle East & North Africa;hib3;1996;1
+2000;Middle East & North Africa;mcv1;1996;88
+2001;Middle East & North Africa;pol3;1996;88
+2002;Middle East & North Africa;rcv1;1996;21
+2003;Middle East & North Africa;bcg;1997;91
+2004;Middle East & North Africa;dtp1;1997;93
+2005;Middle East & North Africa;dtp3;1997;87
+2006;Middle East & North Africa;hepb3;1997;62
+2007;Middle East & North Africa;hib3;1997;2
+2008;Middle East & North Africa;mcv1;1997;87
+2009;Middle East & North Africa;pol3;1997;88
+2010;Middle East & North Africa;rcv1;1997;13
+2011;Middle East & North Africa;bcg;1998;93
+2012;Middle East & North Africa;dtp1;1998;93
+2013;Middle East & North Africa;dtp3;1998;89
+2014;Middle East & North Africa;hepb3;1998;58
+2015;Middle East & North Africa;hib3;1998;2
+2016;Middle East & North Africa;mcv1;1998;91
+2017;Middle East & North Africa;pol3;1998;90
+2018;Middle East & North Africa;rcv1;1998;13
+2019;Middle East & North Africa;bcg;1999;94
+2020;Middle East & North Africa;dtp1;1999;95
+2021;Middle East & North Africa;dtp3;1999;90
+2022;Middle East & North Africa;hepb3;1999;67
+2023;Middle East & North Africa;hib3;1999;3
+2024;Middle East & North Africa;mcv1;1999;91
+2025;Middle East & North Africa;pol3;1999;91
+2026;Middle East & North Africa;rcv1;1999;40
+2027;Middle East & North Africa;bcg;2000;95
+2028;Middle East & North Africa;dtp1;2000;95
+2029;Middle East & North Africa;dtp3;2000;91
+2030;Middle East & North Africa;hepb3;2000;73
+2031;Middle East & North Africa;hepbb;2000;21
+2032;Middle East & North Africa;hib3;2000;3
+2033;Middle East & North Africa;mcv1;2000;91
+2034;Middle East & North Africa;mcv2;2000;57
+2035;Middle East & North Africa;pol3;2000;92
+2036;Middle East & North Africa;rcv1;2000;44
+2037;Middle East & North Africa;bcg;2001;93
+2038;Middle East & North Africa;dtp1;2001;95
+2039;Middle East & North Africa;dtp3;2001;91
+2040;Middle East & North Africa;hepb3;2001;77
+2041;Middle East & North Africa;hepbb;2001;27
+2042;Middle East & North Africa;hib3;2001;10
+2043;Middle East & North Africa;mcv1;2001;90
+2044;Middle East & North Africa;mcv2;2001;72
+2045;Middle East & North Africa;pol3;2001;91
+2046;Middle East & North Africa;rcv1;2001;50
+2047;Middle East & North Africa;bcg;2002;92
+2048;Middle East & North Africa;dtp1;2002;94
+2049;Middle East & North Africa;dtp3;2002;90
+2050;Middle East & North Africa;hepb3;2002;78
+2051;Middle East & North Africa;hepbb;2002;28
+2052;Middle East & North Africa;hib3;2002;18
+2053;Middle East & North Africa;mcv1;2002;89
+2054;Middle East & North Africa;mcv2;2002;73
+2055;Middle East & North Africa;pol3;2002;90
+2056;Middle East & North Africa;rcv1;2002;49
+2057;Middle East & North Africa;bcg;2003;93
+2058;Middle East & North Africa;dtp1;2003;93
+2059;Middle East & North Africa;dtp3;2003;89
+2060;Middle East & North Africa;hepb3;2003;79
+2061;Middle East & North Africa;hepbb;2003;27
+2062;Middle East & North Africa;hib3;2003;21
+2063;Middle East & North Africa;mcv1;2003;89
+2064;Middle East & North Africa;mcv2;2003;72
+2065;Middle East & North Africa;pol3;2003;89
+2066;Middle East & North Africa;rcv1;2003;49
+2067;Middle East & North Africa;bcg;2004;93
+2068;Middle East & North Africa;dtp1;2004;95
+2069;Middle East & North Africa;dtp3;2004;90
+2070;Middle East & North Africa;hepb3;2004;85
+2071;Middle East & North Africa;hepbb;2004;46
+2072;Middle East & North Africa;hib3;2004;21
+2073;Middle East & North Africa;mcv1;2004;89
+2074;Middle East & North Africa;mcv2;2004;79
+2075;Middle East & North Africa;pol3;2004;90
+2076;Middle East & North Africa;rcv1;2004;70
+2077;Middle East & North Africa;bcg;2005;93
+2078;Middle East & North Africa;dtp1;2005;94
+2079;Middle East & North Africa;dtp3;2005;90
+2080;Middle East & North Africa;hepb3;2005;89
+2081;Middle East & North Africa;hepbb;2005;46
+2082;Middle East & North Africa;hib3;2005;25
+2083;Middle East & North Africa;mcv1;2005;89
+2084;Middle East & North Africa;mcv2;2005;83
+2085;Middle East & North Africa;pol3;2005;90
+2086;Middle East & North Africa;rcv1;2005;72
+2087;Middle East & North Africa;bcg;2006;94
+2088;Middle East & North Africa;dtp1;2006;94
+2089;Middle East & North Africa;dtp3;2006;90
+2090;Middle East & North Africa;hepb3;2006;89
+2091;Middle East & North Africa;hepbb;2006;45
+2092;Middle East & North Africa;hib3;2006;26
+2093;Middle East & North Africa;mcv1;2006;89
+2094;Middle East & North Africa;mcv2;2006;83
+2095;Middle East & North Africa;pol3;2006;91
+2096;Middle East & North Africa;rcv1;2006;71
+2097;Middle East & North Africa;rotac;2006;0
+2098;Middle East & North Africa;bcg;2007;94
+2099;Middle East & North Africa;dtp1;2007;93
+2100;Middle East & North Africa;dtp3;2007;90
+2101;Middle East & North Africa;hepb3;2007;89
+2102;Middle East & North Africa;hepbb;2007;48
+2103;Middle East & North Africa;hib3;2007;35
+2104;Middle East & North Africa;mcv1;2007;89
+2105;Middle East & North Africa;mcv2;2007;85
+2106;Middle East & North Africa;pol3;2007;92
+2107;Middle East & North Africa;rcv1;2007;72
+2108;Middle East & North Africa;rotac;2007;0
+2109;Middle East & North Africa;bcg;2008;93
+2110;Middle East & North Africa;dtp1;2008;94
+2111;Middle East & North Africa;dtp3;2008;91
+2112;Middle East & North Africa;hepb3;2008;91
+2113;Middle East & North Africa;hepbb;2008;48
+2114;Middle East & North Africa;hib3;2008;44
+2115;Middle East & North Africa;mcv1;2008;89
+2116;Middle East & North Africa;mcv2;2008;79
+2117;Middle East & North Africa;pcv3;2008;1
+2118;Middle East & North Africa;pol3;2008;92
+2119;Middle East & North Africa;rcv1;2008;66
+2120;Middle East & North Africa;rotac;2008;0
+2121;Middle East & North Africa;bcg;2009;94
+2122;Middle East & North Africa;dtp1;2009;95
+2123;Middle East & North Africa;dtp3;2009;92
+2124;Middle East & North Africa;hepb3;2009;92
+2125;Middle East & North Africa;hepbb;2009;45
+2126;Middle East & North Africa;hib3;2009;44
+2127;Middle East & North Africa;mcv1;2009;91
+2128;Middle East & North Africa;mcv2;2009;82
+2129;Middle East & North Africa;pcv3;2009;8
+2130;Middle East & North Africa;pol3;2009;92
+2131;Middle East & North Africa;rcv1;2009;68
+2132;Middle East & North Africa;rotac;2009;0
+2133;Middle East & North Africa;bcg;2010;94
+2134;Middle East & North Africa;dtp1;2010;95
+2135;Middle East & North Africa;dtp3;2010;92
+2136;Middle East & North Africa;hepb3;2010;92
+2137;Middle East & North Africa;hepbb;2010;42
+2138;Middle East & North Africa;hib3;2010;44
+2139;Middle East & North Africa;mcv1;2010;91
+2140;Middle East & North Africa;mcv2;2010;81
+2141;Middle East & North Africa;pcv3;2010;9
+2142;Middle East & North Africa;pol3;2010;92
+2143;Middle East & North Africa;rcv1;2010;67
+2144;Middle East & North Africa;rotac;2010;0
+2145;Middle East & North Africa;bcg;2011;94
+2146;Middle East & North Africa;dtp1;2011;95
+2147;Middle East & North Africa;dtp3;2011;91
+2148;Middle East & North Africa;hepb3;2011;91
+2149;Middle East & North Africa;hepbb;2011;42
+2150;Middle East & North Africa;hib3;2011;44
+2151;Middle East & North Africa;mcv1;2011;92
+2152;Middle East & North Africa;mcv2;2011;81
+2153;Middle East & North Africa;pcv3;2011;16
+2154;Middle East & North Africa;pol3;2011;91
+2155;Middle East & North Africa;rcv1;2011;67
+2156;Middle East & North Africa;rotac;2011;6
+2157;Middle East & North Africa;bcg;2012;94
+2158;Middle East & North Africa;dtp1;2012;93
+2159;Middle East & North Africa;dtp3;2012;88
+2160;Middle East & North Africa;hepb3;2012;87
+2161;Middle East & North Africa;hepbb;2012;42
+2162;Middle East & North Africa;hib3;2012;47
+2163;Middle East & North Africa;mcv1;2012;89
+2164;Middle East & North Africa;mcv2;2012;77
+2165;Middle East & North Africa;pcv3;2012;22
+2166;Middle East & North Africa;pol3;2012;88
+2167;Middle East & North Africa;rcv1;2012;67
+2168;Middle East & North Africa;rotac;2012;13
+2169;Middle East & North Africa;bcg;2013;95
+2170;Middle East & North Africa;dtp1;2013;93
+2171;Middle East & North Africa;dtp3;2013;90
+2172;Middle East & North Africa;hepb3;2013;91
+2173;Middle East & North Africa;hepbb;2013;44
+2174;Middle East & North Africa;hib3;2013;50
+2175;Middle East & North Africa;mcv1;2013;90
+2176;Middle East & North Africa;mcv2;2013;78
+2177;Middle East & North Africa;pcv3;2013;24
+2178;Middle East & North Africa;pol3;2013;90
+2179;Middle East & North Africa;rcv1;2013;66
+2180;Middle East & North Africa;rotac;2013;24
+2181;Middle East & North Africa;bcg;2014;95
+2182;Middle East & North Africa;dtp1;2014;93
+2183;Middle East & North Africa;dtp3;2014;89
+2184;Middle East & North Africa;hepb3;2014;89
+2185;Middle East & North Africa;hepbb;2014;44
+2186;Middle East & North Africa;hib3;2014;74
+2187;Middle East & North Africa;mcv1;2014;89
+2188;Middle East & North Africa;mcv2;2014;83
+2189;Middle East & North Africa;pcv3;2014;25
+2190;Middle East & North Africa;pol3;2014;89
+2191;Middle East & North Africa;rcv1;2014;73
+2192;Middle East & North Africa;rotac;2014;23
+2193;Middle East & North Africa;bcg;2015;91
+2194;Middle East & North Africa;dtp1;2015;92
+2195;Middle East & North Africa;dtp3;2015;88
+2196;Middle East & North Africa;hepb3;2015;88
+2197;Middle East & North Africa;hepbb;2015;44
+2198;Middle East & North Africa;hib3;2015;88
+2199;Middle East & North Africa;ipv1;2015;27
+2200;Middle East & North Africa;mcv1;2015;89
+2201;Middle East & North Africa;mcv2;2015;86
+2202;Middle East & North Africa;pcv3;2015;25
+2203;Middle East & North Africa;pol3;2015;88
+2204;Middle East & North Africa;rcv1;2015;79
+2205;Middle East & North Africa;rotac;2015;27
+2206;Middle East & North Africa;bcg;2016;94
+2207;Middle East & North Africa;dtp1;2016;93
+2208;Middle East & North Africa;dtp3;2016;89
+2209;Middle East & North Africa;hepb3;2016;89
+2210;Middle East & North Africa;hepbb;2016;45
+2211;Middle East & North Africa;hib3;2016;89
+2212;Middle East & North Africa;ipv1;2016;46
+2213;Middle East & North Africa;mcv1;2016;91
+2214;Middle East & North Africa;mcv2;2016;89
+2215;Middle East & North Africa;pcv3;2016;32
+2216;Middle East & North Africa;pol3;2016;89
+2217;Middle East & North Africa;rcv1;2016;81
+2218;Middle East & North Africa;rotac;2016;29
+2219;Middle East & North Africa;bcg;2017;91
+2220;Middle East & North Africa;dtp1;2017;93
+2221;Middle East & North Africa;dtp3;2017;90
+2222;Middle East & North Africa;hepb3;2017;90
+2223;Middle East & North Africa;hepbb;2017;67
+2224;Middle East & North Africa;hib3;2017;90
+2225;Middle East & North Africa;ipv1;2017;46
+2226;Middle East & North Africa;mcv1;2017;90
+2227;Middle East & North Africa;mcv2;2017;89
+2228;Middle East & North Africa;pcv3;2017;39
+2229;Middle East & North Africa;pol3;2017;90
+2230;Middle East & North Africa;rcv1;2017;91
+2231;Middle East & North Africa;rotac;2017;32
+2232;Middle East & North Africa;bcg;2018;93
+2233;Middle East & North Africa;dtp1;2018;94
+2234;Middle East & North Africa;dtp3;2018;90
+2235;Middle East & North Africa;hepb3;2018;90
+2236;Middle East & North Africa;hepbb;2018;68
+2237;Middle East & North Africa;hib3;2018;90
+2238;Middle East & North Africa;ipv1;2018;57
+2239;Middle East & North Africa;mcv1;2018;89
+2240;Middle East & North Africa;mcv2;2018;87
+2241;Middle East & North Africa;pcv3;2018;39
+2242;Middle East & North Africa;pol3;2018;88
+2243;Middle East & North Africa;rcv1;2018;89
+2244;Middle East & North Africa;rotac;2018;32
+2245;North America;dtp1;1980;89
+2246;North America;dtp3;1980;87
+2247;North America;mcv1;1980;78
+2248;North America;pol3;1980;86
+2249;North America;rcv1;1980;78
+2250;North America;dtp1;1981;89
+2251;North America;dtp3;1981;87
+2252;North America;mcv1;1981;88
+2253;North America;pol3;1981;87
+2254;North America;rcv1;1981;88
+2255;North America;dtp1;1982;89
+2256;North America;dtp3;1982;87
+2257;North America;mcv1;1982;88
+2258;North America;pol3;1982;88
+2259;North America;rcv1;1982;88
+2260;North America;dtp1;1983;89
+2261;North America;dtp3;1983;88
+2262;North America;mcv1;1983;89
+2263;North America;pol3;1983;88
+2264;North America;rcv1;1983;89
+2265;North America;dtp1;1984;89
+2266;North America;dtp3;1984;88
+2267;North America;mcv1;1984;89
+2268;North America;pol3;1984;88
+2269;North America;rcv1;1984;89
+2270;North America;dtp1;1985;89
+2271;North America;dtp3;1985;87
+2272;North America;hepb3;1985;0
+2273;North America;mcv1;1985;88
+2274;North America;pol3;1985;87
+2275;North America;rcv1;1985;88
+2276;North America;dtp1;1986;89
+2277;North America;dtp3;1986;88
+2278;North America;hepb3;1986;0
+2279;North America;mcv1;1986;88
+2280;North America;pol3;1986;88
+2281;North America;rcv1;1986;88
+2282;North America;dtp1;1987;98
+2283;North America;dtp3;1987;96
+2284;North America;hepb3;1987;0
+2285;North America;mcv1;1987;81
+2286;North America;pol3;1987;96
+2287;North America;rcv1;1987;81
+2288;North America;dtp1;1988;98
+2289;North America;dtp3;1988;96
+2290;North America;hepb3;1988;0
+2291;North America;mcv1;1988;97
+2292;North America;pol3;1988;96
+2293;North America;rcv1;1988;97
+2294;North America;dtp1;1989;97
+2295;North America;dtp3;1989;93
+2296;North America;hepb3;1989;0
+2297;North America;mcv1;1989;93
+2298;North America;pol3;1989;91
+2299;North America;rcv1;1989;93
+2300;North America;dtp1;1990;96
+2301;North America;dtp3;1990;90
+2302;North America;hepb3;1990;0
+2303;North America;hib3;1990;0
+2304;North America;mcv1;1990;90
+2305;North America;pol3;1990;85
+2306;North America;rcv1;1990;90
+2307;North America;dtp1;1991;95
+2308;North America;dtp3;1991;86
+2309;North America;hepb3;1991;0
+2310;North America;hib3;1991;0
+2311;North America;mcv1;1991;87
+2312;North America;pol3;1991;79
+2313;North America;rcv1;1991;87
+2314;North America;dtp1;1992;94
+2315;North America;dtp3;1992;84
+2316;North America;hepb3;1992;0
+2317;North America;hib3;1992;0
+2318;North America;mcv1;1992;84
+2319;North America;pol3;1992;74
+2320;North America;rcv1;1992;84
+2321;North America;dtp1;1993;96
+2322;North America;dtp3;1993;88
+2323;North America;hepb3;1993;15
+2324;North America;hib3;1993;0
+2325;North America;mcv1;1993;85
+2326;North America;pol3;1993;80
+2327;North America;rcv1;1993;85
+2328;North America;dtp1;1994;97
+2329;North America;dtp3;1994;94
+2330;North America;hepb3;1994;38
+2331;North America;hib3;1994;0
+2332;North America;mcv1;1994;90
+2333;North America;pol3;1994;84
+2334;North America;rcv1;1994;90
+2335;North America;dtp1;1995;98
+2336;North America;dtp3;1995;94
+2337;North America;hepb3;1995;62
+2338;North America;hib3;1995;83
+2339;North America;mcv1;1995;89
+2340;North America;pol3;1995;88
+2341;North America;rcv1;1995;89
+2342;North America;dtp1;1996;98
+2343;North America;dtp3;1996;95
+2344;North America;hepb3;1996;75
+2345;North America;hib3;1996;90
+2346;North America;mcv1;1996;92
+2347;North America;pol3;1996;91
+2348;North America;rcv1;1996;92
+2349;North America;dtp1;1997;98
+2350;North America;dtp3;1997;95
+2351;North America;hepb3;1997;77
+2352;North America;hib3;1997;93
+2353;North America;mcv1;1997;91
+2354;North America;pol3;1997;91
+2355;North America;rcv1;1997;91
+2356;North America;dtp1;1998;98
+2357;North America;dtp3;1998;96
+2358;North America;hepb3;1998;80
+2359;North America;hib3;1998;93
+2360;North America;mcv1;1998;92
+2361;North America;pol3;1998;91
+2362;North America;rcv1;1998;92
+2363;North America;dtp1;1999;99
+2364;North America;dtp3;1999;96
+2365;North America;hepb3;1999;81
+2366;North America;hib3;1999;94
+2367;North America;mcv1;1999;92
+2368;North America;pol3;1999;90
+2369;North America;rcv1;1999;92
+2370;North America;dtp1;2000;99
+2371;North America;dtp3;2000;94
+2372;North America;hepb3;2000;83
+2373;North America;hepbb;2000;0
+2374;North America;hib3;2000;93
+2375;North America;mcv1;2000;91
+2376;North America;mcv2;2000;78
+2377;North America;pol3;2000;90
+2378;North America;rcv1;2000;91
+2379;North America;dtp1;2001;98
+2380;North America;dtp3;2001;94
+2381;North America;hepb3;2001;82
+2382;North America;hepbb;2001;0
+2383;North America;hib3;2001;93
+2384;North America;mcv1;2001;91
+2385;North America;mcv2;2001;79
+2386;North America;pol3;2001;89
+2387;North America;rcv1;2001;91
+2388;North America;dtp1;2002;97
+2389;North America;dtp3;2002;94
+2390;North America;hepb3;2002;81
+2391;North America;hepbb;2002;19
+2392;North America;hib3;2002;93
+2393;North America;mcv1;2002;91
+2394;North America;mcv2;2002;79
+2395;North America;pol3;2002;90
+2396;North America;rcv1;2002;91
+2397;North America;dtp1;2003;99
+2398;North America;dtp3;2003;96
+2399;North America;hepb3;2003;86
+2400;North America;hepbb;2003;36
+2401;North America;hib3;2003;94
+2402;North America;mcv1;2003;93
+2403;North America;mcv2;2003;79
+2404;North America;pol3;2003;91
+2405;North America;rcv1;2003;93
+2406;North America;dtp1;2004;99
+2407;North America;dtp3;2004;96
+2408;North America;hepb3;2004;86
+2409;North America;hepbb;2004;44
+2410;North America;hib3;2004;94
+2411;North America;mcv1;2004;93
+2412;North America;mcv2;2004;79
+2413;North America;pol3;2004;92
+2414;North America;rcv1;2004;93
+2415;North America;dtp1;2005;99
+2416;North America;dtp3;2005;96
+2417;North America;hepb3;2005;87
+2418;North America;hepbb;2005;46
+2419;North America;hib3;2005;94
+2420;North America;mcv1;2005;92
+2421;North America;mcv2;2005;79
+2422;North America;pol3;2005;92
+2423;North America;rcv1;2005;92
+2424;North America;dtp1;2006;99
+2425;North America;dtp3;2006;96
+2426;North America;hepb3;2006;87
+2427;North America;hepbb;2006;46
+2428;North America;hib3;2006;93
+2429;North America;mcv1;2006;92
+2430;North America;mcv2;2006;79
+2431;North America;pol3;2006;93
+2432;North America;rcv1;2006;92
+2433;North America;rotac;2006;0
+2434;North America;dtp1;2007;99
+2435;North America;dtp3;2007;96
+2436;North America;hepb3;2007;87
+2437;North America;hepbb;2007;49
+2438;North America;hib3;2007;93
+2439;North America;mcv1;2007;92
+2440;North America;mcv2;2007;79
+2441;North America;pol3;2007;93
+2442;North America;rcv1;2007;92
+2443;North America;rotac;2007;0
+2444;North America;dtp1;2008;99
+2445;North America;dtp3;2008;96
+2446;North America;hepb3;2008;89
+2447;North America;hepbb;2008;50
+2448;North America;hib3;2008;91
+2449;North America;mcv1;2008;92
+2450;North America;mcv2;2008;80
+2451;North America;pcv3;2008;89
+2452;North America;pol3;2008;94
+2453;North America;rcv1;2008;92
+2454;North America;rotac;2008;0
+2455;North America;dtp1;2009;98
+2456;North America;dtp3;2009;95
+2457;North America;hepb3;2009;88
+2458;North America;hepbb;2009;56
+2459;North America;hib3;2009;85
+2460;North America;mcv1;2009;90
+2461;North America;mcv2;2009;81
+2462;North America;pcv3;2009;89
+2463;North America;pol3;2009;93
+2464;North America;rcv1;2009;90
+2465;North America;rotac;2009;40
+2466;North America;dtp1;2010;98
+2467;North America;dtp3;2010;94
+2468;North America;hepb3;2010;89
+2469;North America;hepbb;2010;59
+2470;North America;hib3;2010;90
+2471;North America;mcv1;2010;92
+2472;North America;mcv2;2010;82
+2473;North America;pcv3;2010;90
+2474;North America;pol3;2010;93
+2475;North America;rcv1;2010;92
+2476;North America;rotac;2010;54
+2477;North America;dtp1;2011;98
+2478;North America;dtp3;2011;95
+2479;North America;hepb3;2011;89
+2480;North America;hepbb;2011;63
+2481;North America;hib3;2011;94
+2482;North America;mcv1;2011;92
+2483;North America;mcv2;2011;82
+2484;North America;pcv3;2011;92
+2485;North America;pol3;2011;93
+2486;North America;rcv1;2011;92
+2487;North America;rotac;2011;61
+2488;North America;dtp1;2012;97
+2489;North America;dtp3;2012;94
+2490;North America;hepb3;2012;88
+2491;North America;hepbb;2012;66
+2492;North America;hib3;2012;93
+2493;North America;mcv1;2012;91
+2494;North America;mcv2;2012;90
+2495;North America;pcv3;2012;90
+2496;North America;pol3;2012;93
+2497;North America;rcv1;2012;91
+2498;North America;rotac;2012;63
+2499;North America;dtp1;2013;98
+2500;North America;dtp3;2013;94
+2501;North America;hepb3;2013;88
+2502;North America;hepbb;2013;67
+2503;North America;hib3;2013;93
+2504;North America;mcv1;2013;92
+2505;North America;mcv2;2013;91
+2506;North America;pcv3;2013;91
+2507;North America;pol3;2013;93
+2508;North America;rcv1;2013;92
+2509;North America;rotac;2013;67
+2510;North America;dtp1;2014;98
+2511;North America;dtp3;2014;95
+2512;North America;hepb3;2014;89
+2513;North America;hepbb;2014;66
+2514;North America;hib3;2014;93
+2515;North America;mcv1;2014;92
+2516;North America;mcv2;2014;91
+2517;North America;pcv3;2014;92
+2518;North America;pol3;2014;93
+2519;North America;rcv1;2014;92
+2520;North America;rotac;2014;66
+2521;North America;dtp1;2015;98
+2522;North America;dtp3;2015;95
+2523;North America;hepb3;2015;90
+2524;North America;hepbb;2015;66
+2525;North America;hib3;2015;93
+2526;North America;mcv1;2015;92
+2527;North America;mcv2;2015;92
+2528;North America;pcv3;2015;92
+2529;North America;pol3;2015;93
+2530;North America;rcv1;2015;92
+2531;North America;rotac;2015;66
+2532;North America;dtp1;2016;98
+2533;North America;dtp3;2016;95
+2534;North America;hepb3;2016;91
+2535;North America;hepbb;2016;58
+2536;North America;hib3;2016;93
+2537;North America;mcv1;2016;92
+2538;North America;mcv2;2016;93
+2539;North America;pcv3;2016;92
+2540;North America;pol3;2016;94
+2541;North America;rcv1;2016;92
+2542;North America;rotac;2016;66
+2543;North America;dtp1;2017;98
+2544;North America;dtp3;2017;95
+2545;North America;hepb3;2017;91
+2546;North America;hepbb;2017;58
+2547;North America;hib3;2017;93
+2548;North America;mcv1;2017;92
+2549;North America;mcv2;2017;93
+2550;North America;pcv3;2017;92
+2551;North America;pol3;2017;94
+2552;North America;rcv1;2017;92
+2553;North America;rotac;2017;74
+2554;North America;dtp1;2018;97
+2555;North America;dtp3;2018;94
+2556;North America;hepb3;2018;89
+2557;North America;hepbb;2018;60
+2558;North America;hib3;2018;92
+2559;North America;mcv1;2018;92
+2560;North America;mcv2;2018;93
+2561;North America;pcv3;2018;91
+2562;North America;pol3;2018;93
+2563;North America;rcv1;2018;92
+2564;North America;rotac;2018;74
+2565;South Asia;bcg;1980;2
+2566;South Asia;dtp1;1980;23
+2567;South Asia;dtp3;1980;6
+2568;South Asia;mcv1;1980;0
+2569;South Asia;pol3;1980;2
+2570;South Asia;rcv1;1980;0
+2571;South Asia;bcg;1981;5
+2572;South Asia;dtp1;1981;24
+2573;South Asia;dtp3;1981;6
+2574;South Asia;mcv1;1981;0
+2575;South Asia;pol3;1981;3
+2576;South Asia;rcv1;1981;0
+2577;South Asia;bcg;1982;6
+2578;South Asia;dtp1;1982;31
+2579;South Asia;dtp3;1982;11
+2580;South Asia;mcv1;1982;1
+2581;South Asia;pol3;1982;7
+2582;South Asia;rcv1;1982;0
+2583;South Asia;bcg;1983;10
+2584;South Asia;dtp1;1983;35
+2585;South Asia;dtp3;1983;13
+2586;South Asia;mcv1;1983;2
+2587;South Asia;pol3;1983;10
+2588;South Asia;rcv1;1983;0
+2589;South Asia;bcg;1984;13
+2590;South Asia;dtp1;1984;39
+2591;South Asia;dtp3;1984;16
+2592;South Asia;mcv1;1984;4
+2593;South Asia;pol3;1984;13
+2594;South Asia;rcv1;1984;0
+2595;South Asia;bcg;1985;15
+2596;South Asia;dtp1;1985;41
+2597;South Asia;dtp3;1985;19
+2598;South Asia;hepb3;1985;0
+2599;South Asia;mcv1;1985;6
+2600;South Asia;pol3;1985;15
+2601;South Asia;rcv1;1985;0
+2602;South Asia;bcg;1986;17
+2603;South Asia;dtp1;1986;44
+2604;South Asia;dtp3;1986;21
+2605;South Asia;hepb3;1986;0
+2606;South Asia;mcv1;1986;14
+2607;South Asia;pol3;1986;18
+2608;South Asia;rcv1;1986;0
+2609;South Asia;bcg;1987;29
+2610;South Asia;dtp1;1987;54
+2611;South Asia;dtp3;1987;29
+2612;South Asia;hepb3;1987;0
+2613;South Asia;mcv1;1987;25
+2614;South Asia;pol3;1987;27
+2615;South Asia;rcv1;1987;0
+2616;South Asia;bcg;1988;31
+2617;South Asia;dtp1;1988;63
+2618;South Asia;dtp3;1988;38
+2619;South Asia;hepb3;1988;0
+2620;South Asia;mcv1;1988;33
+2621;South Asia;pol3;1988;36
+2622;South Asia;rcv1;1988;0
+2623;South Asia;bcg;1989;38
+2624;South Asia;dtp1;1989;73
+2625;South Asia;dtp3;1989;49
+2626;South Asia;hepb3;1989;0
+2627;South Asia;mcv1;1989;44
+2628;South Asia;pol3;1989;52
+2629;South Asia;rcv1;1989;0
+2630;South Asia;bcg;1990;69
+2631;South Asia;dtp1;1990;86
+2632;South Asia;dtp3;1990;67
+2633;South Asia;hepb3;1990;0
+2634;South Asia;hib3;1990;0
+2635;South Asia;mcv1;1990;56
+2636;South Asia;pol3;1990;64
+2637;South Asia;rcv1;1990;0
+2638;South Asia;bcg;1991;66
+2639;South Asia;dtp1;1991;79
+2640;South Asia;dtp3;1991;57
+2641;South Asia;hepb3;1991;0
+2642;South Asia;hib3;1991;0
+2643;South Asia;mcv1;1991;47
+2644;South Asia;pol3;1991;58
+2645;South Asia;rcv1;1991;0
+2646;South Asia;bcg;1992;69
+2647;South Asia;dtp1;1992;78
+2648;South Asia;dtp3;1992;55
+2649;South Asia;hepb3;1992;0
+2650;South Asia;hib3;1992;0
+2651;South Asia;mcv1;1992;53
+2652;South Asia;pol3;1992;55
+2653;South Asia;rcv1;1992;0
+2654;South Asia;bcg;1993;72
+2655;South Asia;dtp1;1993;78
+2656;South Asia;dtp3;1993;59
+2657;South Asia;hepb3;1993;0
+2658;South Asia;hib3;1993;0
+2659;South Asia;mcv1;1993;59
+2660;South Asia;pol3;1993;59
+2661;South Asia;rcv1;1993;0
+2662;South Asia;bcg;1994;73
+2663;South Asia;dtp1;1994;83
+2664;South Asia;dtp3;1994;64
+2665;South Asia;hepb3;1994;0
+2666;South Asia;hib3;1994;0
+2667;South Asia;mcv1;1994;66
+2668;South Asia;pol3;1994;64
+2669;South Asia;rcv1;1994;0
+2670;South Asia;bcg;1995;80
+2671;South Asia;dtp1;1995;85
+2672;South Asia;dtp3;1995;68
+2673;South Asia;hepb3;1995;0
+2674;South Asia;hib3;1995;0
+2675;South Asia;mcv1;1995;69
+2676;South Asia;pol3;1995;68
+2677;South Asia;rcv1;1995;0
+2678;South Asia;bcg;1996;77
+2679;South Asia;dtp1;1996;83
+2680;South Asia;dtp3;1996;64
+2681;South Asia;hepb3;1996;0
+2682;South Asia;hib3;1996;0
+2683;South Asia;mcv1;1996;64
+2684;South Asia;pol3;1996;65
+2685;South Asia;rcv1;1996;1
+2686;South Asia;bcg;1997;72
+2687;South Asia;dtp1;1997;80
+2688;South Asia;dtp3;1997;62
+2689;South Asia;hepb3;1997;0
+2690;South Asia;hib3;1997;0
+2691;South Asia;mcv1;1997;57
+2692;South Asia;pol3;1997;63
+2693;South Asia;rcv1;1997;1
+2694;South Asia;bcg;1998;73
+2695;South Asia;dtp1;1998;77
+2696;South Asia;dtp3;1998;61
+2697;South Asia;hepb3;1998;0
+2698;South Asia;hib3;1998;0
+2699;South Asia;mcv1;1998;55
+2700;South Asia;pol3;1998;61
+2701;South Asia;rcv1;1998;1
+2702;South Asia;bcg;1999;75
+2703;South Asia;dtp1;1999;75
+2704;South Asia;dtp3;1999;60
+2705;South Asia;hepb3;1999;0
+2706;South Asia;hib3;1999;0
+2707;South Asia;mcv1;1999;58
+2708;South Asia;pol3;1999;60
+2709;South Asia;rcv1;1999;1
+2710;South Asia;bcg;2000;75
+2711;South Asia;dtp1;2000;75
+2712;South Asia;dtp3;2000;60
+2713;South Asia;hepb3;2000;0
+2714;South Asia;hepbb;2000;0
+2715;South Asia;hib3;2000;0
+2716;South Asia;mcv1;2000;58
+2717;South Asia;mcv2;2000;0
+2718;South Asia;pol3;2000;60
+2719;South Asia;rcv1;2000;1
+2720;South Asia;bcg;2001;77
+2721;South Asia;dtp1;2001;76
+2722;South Asia;dtp3;2001;62
+2723;South Asia;hepb3;2001;0
+2724;South Asia;hepbb;2001;0
+2725;South Asia;hib3;2001;0
+2726;South Asia;mcv1;2001;59
+2727;South Asia;mcv2;2001;0
+2728;South Asia;pol3;2001;61
+2729;South Asia;rcv1;2001;1
+2730;South Asia;bcg;2002;77
+2731;South Asia;dtp1;2002;76
+2732;South Asia;dtp3;2002;62
+2733;South Asia;hepb3;2002;0
+2734;South Asia;hepbb;2002;0
+2735;South Asia;hib3;2002;0
+2736;South Asia;mcv1;2002;58
+2737;South Asia;mcv2;2002;1
+2738;South Asia;pol3;2002;61
+2739;South Asia;rcv1;2002;1
+2740;South Asia;bcg;2003;78
+2741;South Asia;dtp1;2003;77
+2742;South Asia;dtp3;2003;64
+2743;South Asia;hepb3;2003;9
+2744;South Asia;hepbb;2003;0
+2745;South Asia;hib3;2003;0
+2746;South Asia;mcv1;2003;62
+2747;South Asia;mcv2;2003;1
+2748;South Asia;pol3;2003;61
+2749;South Asia;rcv1;2003;1
+2750;South Asia;bcg;2004;81
+2751;South Asia;dtp1;2004;79
+2752;South Asia;dtp3;2004;67
+2753;South Asia;hepb3;2004;14
+2754;South Asia;hepbb;2004;0
+2755;South Asia;hib3;2004;0
+2756;South Asia;mcv1;2004;65
+2757;South Asia;mcv2;2004;1
+2758;South Asia;pol3;2004;62
+2759;South Asia;rcv1;2004;1
+2760;South Asia;bcg;2005;85
+2761;South Asia;dtp1;2005;82
+2762;South Asia;dtp3;2005;68
+2763;South Asia;hepb3;2005;20
+2764;South Asia;hepbb;2005;0
+2765;South Asia;hib3;2005;0
+2766;South Asia;mcv1;2005;69
+2767;South Asia;mcv2;2005;1
+2768;South Asia;pol3;2005;68
+2769;South Asia;rcv1;2005;1
+2770;South Asia;bcg;2006;85
+2771;South Asia;dtp1;2006;81
+2772;South Asia;dtp3;2006;67
+2773;South Asia;hepb3;2006;22
+2774;South Asia;hepbb;2006;0
+2775;South Asia;hib3;2006;0
+2776;South Asia;mcv1;2006;69
+2777;South Asia;mcv2;2006;1
+2778;South Asia;pol3;2006;68
+2779;South Asia;rcv1;2006;1
+2780;South Asia;rotac;2006;0
+2781;South Asia;bcg;2007;86
+2782;South Asia;dtp1;2007;81
+2783;South Asia;dtp3;2007;66
+2784;South Asia;hepb3;2007;24
+2785;South Asia;hepbb;2007;0
+2786;South Asia;hib3;2007;0
+2787;South Asia;mcv1;2007;70
+2788;South Asia;mcv2;2007;1
+2789;South Asia;pol3;2007;68
+2790;South Asia;rcv1;2007;1
+2791;South Asia;rotac;2007;0
+2792;South Asia;bcg;2008;85
+2793;South Asia;dtp1;2008;81
+2794;South Asia;dtp3;2008;70
+2795;South Asia;hepb3;2008;41
+2796;South Asia;hepbb;2008;6
+2797;South Asia;hib3;2008;0
+2798;South Asia;mcv1;2008;72
+2799;South Asia;mcv2;2008;2
+2800;South Asia;pcv3;2008;0
+2801;South Asia;pol3;2008;70
+2802;South Asia;rcv1;2008;1
+2803;South Asia;rotac;2008;0
+2804;South Asia;bcg;2009;86
+2805;South Asia;dtp1;2009;83
+2806;South Asia;dtp3;2009;73
+2807;South Asia;hepb3;2009;47
+2808;South Asia;hepbb;2009;6
+2809;South Asia;hib3;2009;18
+2810;South Asia;mcv1;2009;76
+2811;South Asia;mcv2;2009;6
+2812;South Asia;pcv3;2009;0
+2813;South Asia;pol3;2009;72
+2814;South Asia;rcv1;2009;1
+2815;South Asia;rotac;2009;0
+2816;South Asia;bcg;2010;87
+2817;South Asia;dtp1;2010;84
+2818;South Asia;dtp3;2010;76
+2819;South Asia;hepb3;2010;47
+2820;South Asia;hepbb;2010;6
+2821;South Asia;hib3;2010;19
+2822;South Asia;mcv1;2010;79
+2823;South Asia;mcv2;2010;6
+2824;South Asia;pcv3;2010;0
+2825;South Asia;pol3;2010;74
+2826;South Asia;rcv1;2010;1
+2827;South Asia;rotac;2010;0
+2828;South Asia;bcg;2011;89
+2829;South Asia;dtp1;2011;88
+2830;South Asia;dtp3;2011;80
+2831;South Asia;hepb3;2011;53
+2832;South Asia;hepbb;2011;6
+2833;South Asia;hib3;2011;21
+2834;South Asia;mcv1;2011;81
+2835;South Asia;mcv2;2011;27
+2836;South Asia;pcv3;2011;0
+2837;South Asia;pol3;2011;78
+2838;South Asia;rcv1;2011;1
+2839;South Asia;rotac;2011;0
+2840;South Asia;bcg;2012;90
+2841;South Asia;dtp1;2012;88
+2842;South Asia;dtp3;2012;80
+2843;South Asia;hepb3;2012;74
+2844;South Asia;hepbb;2012;16
+2845;South Asia;hib3;2012;22
+2846;South Asia;mcv1;2012;80
+2847;South Asia;mcv2;2012;37
+2848;South Asia;pcv3;2012;0
+2849;South Asia;pol3;2012;78
+2850;South Asia;rcv1;2012;3
+2851;South Asia;rotac;2012;0
+2852;South Asia;bcg;2013;90
+2853;South Asia;dtp1;2013;89
+2854;South Asia;dtp3;2013;81
+2855;South Asia;hepb3;2013;72
+2856;South Asia;hepbb;2013;26
+2857;South Asia;hib3;2013;37
+2858;South Asia;mcv1;2013;81
+2859;South Asia;mcv2;2013;52
+2860;South Asia;pcv3;2013;10
+2861;South Asia;pol3;2013;80
+2862;South Asia;rcv1;2013;10
+2863;South Asia;rotac;2013;0
+2864;South Asia;bcg;2014;89
+2865;South Asia;dtp1;2014;89
+2866;South Asia;dtp3;2014;83
+2867;South Asia;hepb3;2014;79
+2868;South Asia;hepbb;2014;29
+2869;South Asia;hib3;2014;38
+2870;South Asia;mcv1;2014;83
+2871;South Asia;mcv2;2014;59
+2872;South Asia;pcv3;2014;12
+2873;South Asia;pol3;2014;82
+2874;South Asia;rcv1;2014;11
+2875;South Asia;rotac;2014;0
+2876;South Asia;bcg;2015;88
+2877;South Asia;dtp1;2015;89
+2878;South Asia;dtp3;2015;85
+2879;South Asia;hepb3;2015;85
+2880;South Asia;hepbb;2015;31
+2881;South Asia;hib3;2015;56
+2882;South Asia;ipv1;2015;10
+2883;South Asia;mcv1;2015;85
+2884;South Asia;mcv2;2015;67
+2885;South Asia;pcv3;2015;19
+2886;South Asia;pol3;2015;84
+2887;South Asia;rcv1;2015;11
+2888;South Asia;rotac;2015;0
+2889;South Asia;bcg;2016;89
+2890;South Asia;dtp1;2016;90
+2891;South Asia;dtp3;2016;86
+2892;South Asia;hepb3;2016;86
+2893;South Asia;hepbb;2016;33
+2894;South Asia;hib3;2016;81
+2895;South Asia;ipv1;2016;47
+2896;South Asia;mcv1;2016;86
+2897;South Asia;mcv2;2016;74
+2898;South Asia;pcv3;2016;24
+2899;South Asia;pol3;2016;85
+2900;South Asia;rcv1;2016;11
+2901;South Asia;rotac;2016;3
+2902;South Asia;bcg;2017;91
+2903;South Asia;dtp1;2017;91
+2904;South Asia;dtp3;2017;87
+2905;South Asia;hepb3;2017;87
+2906;South Asia;hepbb;2017;38
+2907;South Asia;hib3;2017;87
+2908;South Asia;ipv1;2017;50
+2909;South Asia;mcv1;2017;88
+2910;South Asia;mcv2;2017;78
+2911;South Asia;pcv3;2017;25
+2912;South Asia;pol3;2017;87
+2913;South Asia;rcv1;2017;15
+2914;South Asia;rotac;2017;11
+2915;South Asia;bcg;2018;91
+2916;South Asia;dtp1;2018;91
+2917;South Asia;dtp3;2018;87
+2918;South Asia;hepb3;2018;87
+2919;South Asia;hepbb;2018;38
+2920;South Asia;hib3;2018;87
+2921;South Asia;ipv1;2018;74
+2922;South Asia;mcv1;2018;87
+2923;South Asia;mcv2;2018;78
+2924;South Asia;pcv3;2018;29
+2925;South Asia;pol3;2018;87
+2926;South Asia;rcv1;2018;73
+2927;South Asia;rotac;2018;36
+2928;West & Central Africa;bcg;1980;9
+2929;West & Central Africa;dtp1;1980;3
+2930;West & Central Africa;dtp3;1980;1
+2931;West & Central Africa;mcv1;1980;4
+2932;West & Central Africa;pol3;1980;3
+2933;West & Central Africa;rcv1;1980;0
+2934;West & Central Africa;bcg;1981;22
+2935;West & Central Africa;dtp1;1981;12
+2936;West & Central Africa;dtp3;1981;5
+2937;West & Central Africa;mcv1;1981;8
+2938;West & Central Africa;pol3;1981;6
+2939;West & Central Africa;rcv1;1981;0
+2940;West & Central Africa;bcg;1982;24
+2941;West & Central Africa;dtp1;1982;14
+2942;West & Central Africa;dtp3;1982;6
+2943;West & Central Africa;mcv1;1982;9
+2944;West & Central Africa;pol3;1982;7
+2945;West & Central Africa;rcv1;1982;0
+2946;West & Central Africa;bcg;1983;26
+2947;West & Central Africa;dtp1;1983;16
+2948;West & Central Africa;dtp3;1983;7
+2949;West & Central Africa;mcv1;1983;9
+2950;West & Central Africa;pol3;1983;8
+2951;West & Central Africa;rcv1;1983;0
+2952;West & Central Africa;bcg;1984;27
+2953;West & Central Africa;dtp1;1984;31
+2954;West & Central Africa;dtp3;1984;13
+2955;West & Central Africa;mcv1;1984;15
+2956;West & Central Africa;pol3;1984;12
+2957;West & Central Africa;rcv1;1984;0
+2958;West & Central Africa;bcg;1985;34
+2959;West & Central Africa;dtp1;1985;41
+2960;West & Central Africa;dtp3;1985;19
+2961;West & Central Africa;hepb3;1985;0
+2962;West & Central Africa;mcv1;1985;24
+2963;West & Central Africa;pol3;1985;18
+2964;West & Central Africa;rcv1;1985;0
+2965;West & Central Africa;bcg;1986;44
+2966;West & Central Africa;dtp1;1986;48
+2967;West & Central Africa;dtp3;1986;25
+2968;West & Central Africa;hepb3;1986;0
+2969;West & Central Africa;mcv1;1986;32
+2970;West & Central Africa;pol3;1986;25
+2971;West & Central Africa;rcv1;1986;0
+2972;West & Central Africa;bcg;1987;51
+2973;West & Central Africa;dtp1;1987;54
+2974;West & Central Africa;dtp3;1987;31
+2975;West & Central Africa;hepb3;1987;0
+2976;West & Central Africa;mcv1;1987;37
+2977;West & Central Africa;pol3;1987;30
+2978;West & Central Africa;rcv1;1987;0
+2979;West & Central Africa;bcg;1988;56
+2980;West & Central Africa;dtp1;1988;60
+2981;West & Central Africa;dtp3;1988;36
+2982;West & Central Africa;hepb3;1988;0
+2983;West & Central Africa;mcv1;1988;43
+2984;West & Central Africa;pol3;1988;36
+2985;West & Central Africa;rcv1;1988;0
+2986;West & Central Africa;bcg;1989;61
+2987;West & Central Africa;dtp1;1989;66
+2988;West & Central Africa;dtp3;1989;42
+2989;West & Central Africa;hepb3;1989;0
+2990;West & Central Africa;mcv1;1989;50
+2991;West & Central Africa;pol3;1989;42
+2992;West & Central Africa;rcv1;1989;0
+2993;West & Central Africa;bcg;1990;73
+2994;West & Central Africa;dtp1;1990;71
+2995;West & Central Africa;dtp3;1990;49
+2996;West & Central Africa;hepb3;1990;0
+2997;West & Central Africa;hib3;1990;0
+2998;West & Central Africa;mcv1;1990;50
+2999;West & Central Africa;pol3;1990;49
+3000;West & Central Africa;rcv1;1990;0
+3001;West & Central Africa;bcg;1991;57
+3002;West & Central Africa;dtp1;1991;61
+3003;West & Central Africa;dtp3;1991;37
+3004;West & Central Africa;hepb3;1991;0
+3005;West & Central Africa;hib3;1991;0
+3006;West & Central Africa;mcv1;1991;47
+3007;West & Central Africa;pol3;1991;39
+3008;West & Central Africa;rcv1;1991;0
+3009;West & Central Africa;bcg;1992;57
+3010;West & Central Africa;dtp1;1992;64
+3011;West & Central Africa;dtp3;1992;40
+3012;West & Central Africa;hepb3;1992;0
+3013;West & Central Africa;hib3;1992;0
+3014;West & Central Africa;mcv1;1992;42
+3015;West & Central Africa;pol3;1992;40
+3016;West & Central Africa;rcv1;1992;0
+3017;West & Central Africa;bcg;1993;57
+3018;West & Central Africa;dtp1;1993;60
+3019;West & Central Africa;dtp3;1993;36
+3020;West & Central Africa;hepb3;1993;0
+3021;West & Central Africa;hib3;1993;0
+3022;West & Central Africa;mcv1;1993;42
+3023;West & Central Africa;pol3;1993;36
+3024;West & Central Africa;rcv1;1993;0
+3025;West & Central Africa;bcg;1994;59
+3026;West & Central Africa;dtp1;1994;65
+3027;West & Central Africa;dtp3;1994;42
+3028;West & Central Africa;hepb3;1994;0
+3029;West & Central Africa;hib3;1994;0
+3030;West & Central Africa;mcv1;1994;44
+3031;West & Central Africa;pol3;1994;43
+3032;West & Central Africa;rcv1;1994;0
+3033;West & Central Africa;bcg;1995;53
+3034;West & Central Africa;dtp1;1995;62
+3035;West & Central Africa;dtp3;1995;39
+3036;West & Central Africa;hepb3;1995;0
+3037;West & Central Africa;hib3;1995;0
+3038;West & Central Africa;mcv1;1995;45
+3039;West & Central Africa;pol3;1995;38
+3040;West & Central Africa;rcv1;1995;0
+3041;West & Central Africa;bcg;1996;52
+3042;West & Central Africa;dtp1;1996;58
+3043;West & Central Africa;dtp3;1996;35
+3044;West & Central Africa;hepb3;1996;0
+3045;West & Central Africa;hib3;1996;0
+3046;West & Central Africa;mcv1;1996;41
+3047;West & Central Africa;pol3;1996;35
+3048;West & Central Africa;rcv1;1996;0
+3049;West & Central Africa;bcg;1997;47
+3050;West & Central Africa;dtp1;1997;65
+3051;West & Central Africa;dtp3;1997;32
+3052;West & Central Africa;hepb3;1997;0
+3053;West & Central Africa;hib3;1997;0
+3054;West & Central Africa;mcv1;1997;41
+3055;West & Central Africa;pol3;1997;34
+3056;West & Central Africa;rcv1;1997;0
+3057;West & Central Africa;yfv;1997;6
+3058;West & Central Africa;bcg;1998;54
+3059;West & Central Africa;dtp1;1998;56
+3060;West & Central Africa;dtp3;1998;37
+3061;West & Central Africa;hepb3;1998;0
+3062;West & Central Africa;hib3;1998;0
+3063;West & Central Africa;mcv1;1998;40
+3064;West & Central Africa;pol3;1998;33
+3065;West & Central Africa;rcv1;1998;0
+3066;West & Central Africa;yfv;1998;9
+3067;West & Central Africa;bcg;1999;57
+3068;West & Central Africa;dtp1;1999;55
+3069;West & Central Africa;dtp3;1999;39
+3070;West & Central Africa;hepb3;1999;0
+3071;West & Central Africa;hib3;1999;0
+3072;West & Central Africa;mcv1;1999;40
+3073;West & Central Africa;pol3;1999;38
+3074;West & Central Africa;rcv1;1999;0
+3075;West & Central Africa;yfv;1999;10
+3076;West & Central Africa;bcg;2000;61
+3077;West & Central Africa;dtp1;2000;57
+3078;West & Central Africa;dtp3;2000;43
+3079;West & Central Africa;hepb3;2000;0
+3080;West & Central Africa;hepbb;2000;0
+3081;West & Central Africa;hib3;2000;0
+3082;West & Central Africa;mcv1;2000;45
+3083;West & Central Africa;mcv2;2000;0
+3084;West & Central Africa;pol3;2000;44
+3085;West & Central Africa;rcv1;2000;0
+3086;West & Central Africa;yfv;2000;12
+3087;West & Central Africa;bcg;2001;58
+3088;West & Central Africa;dtp1;2001;57
+3089;West & Central Africa;dtp3;2001;40
+3090;West & Central Africa;hepb3;2001;1
+3091;West & Central Africa;hepbb;2001;0
+3092;West & Central Africa;hib3;2001;0
+3093;West & Central Africa;mcv1;2001;43
+3094;West & Central Africa;mcv2;2001;0
+3095;West & Central Africa;pol3;2001;45
+3096;West & Central Africa;rcv1;2001;0
+3097;West & Central Africa;yfv;2001;13
+3098;West & Central Africa;bcg;2002;58
+3099;West & Central Africa;dtp1;2002;58
+3100;West & Central Africa;dtp3;2002;43
+3101;West & Central Africa;hepb3;2002;7
+3102;West & Central Africa;hepbb;2002;0
+3103;West & Central Africa;hib3;2002;4
+3104;West & Central Africa;mcv1;2002;44
+3105;West & Central Africa;mcv2;2002;0
+3106;West & Central Africa;pol3;2002;50
+3107;West & Central Africa;rcv1;2002;0
+3108;West & Central Africa;yfv;2002;17
+3109;West & Central Africa;bcg;2003;61
+3110;West & Central Africa;dtp1;2003;60
+3111;West & Central Africa;dtp3;2003;46
+3112;West & Central Africa;hepb3;2003;12
+3113;West & Central Africa;hepbb;2003;0
+3114;West & Central Africa;hib3;2003;4
+3115;West & Central Africa;mcv1;2003;49
+3116;West & Central Africa;mcv2;2003;0
+3117;West & Central Africa;pol3;2003;54
+3118;West & Central Africa;rcv1;2003;0
+3119;West & Central Africa;yfv;2003;20
+3120;West & Central Africa;bcg;2004;64
+3121;West & Central Africa;dtp1;2004;63
+3122;West & Central Africa;dtp3;2004;51
+3123;West & Central Africa;hepb3;2004;14
+3124;West & Central Africa;hepbb;2004;0
+3125;West & Central Africa;hib3;2004;4
+3126;West & Central Africa;mcv1;2004;52
+3127;West & Central Africa;mcv2;2004;0
+3128;West & Central Africa;pol3;2004;56
+3129;West & Central Africa;rcv1;2004;0
+3130;West & Central Africa;yfv;2004;37
+3131;West & Central Africa;bcg;2005;68
+3132;West & Central Africa;dtp1;2005;66
+3133;West & Central Africa;dtp3;2005;55
+3134;West & Central Africa;hepb3;2005;26
+3135;West & Central Africa;hepbb;2005;0
+3136;West & Central Africa;hib3;2005;6
+3137;West & Central Africa;mcv1;2005;56
+3138;West & Central Africa;mcv2;2005;0
+3139;West & Central Africa;pol3;2005;60
+3140;West & Central Africa;rcv1;2005;0
+3141;West & Central Africa;yfv;2005;49
+3142;West & Central Africa;bcg;2006;70
+3143;West & Central Africa;dtp1;2006;68
+3144;West & Central Africa;dtp3;2006;58
+3145;West & Central Africa;hepb3;2006;34
+3146;West & Central Africa;hepbb;2006;0
+3147;West & Central Africa;hib3;2006;12
+3148;West & Central Africa;mcv1;2006;58
+3149;West & Central Africa;mcv2;2006;0
+3150;West & Central Africa;pol3;2006;61
+3151;West & Central Africa;rcv1;2006;0
+3152;West & Central Africa;rotac;2006;0
+3153;West & Central Africa;yfv;2006;54
+3154;West & Central Africa;bcg;2007;72
+3155;West & Central Africa;dtp1;2007;71
+3156;West & Central Africa;dtp3;2007;61
+3157;West & Central Africa;hepb3;2007;55
+3158;West & Central Africa;hepbb;2007;0
+3159;West & Central Africa;hib3;2007;16
+3160;West & Central Africa;mcv1;2007;59
+3161;West & Central Africa;mcv2;2007;0
+3162;West & Central Africa;pol3;2007;66
+3163;West & Central Africa;rcv1;2007;0
+3164;West & Central Africa;rotac;2007;0
+3165;West & Central Africa;yfv;2007;59
+3166;West & Central Africa;bcg;2008;77
+3167;West & Central Africa;dtp1;2008;74
+3168;West & Central Africa;dtp3;2008;65
+3169;West & Central Africa;hepb3;2008;55
+3170;West & Central Africa;hepbb;2008;0
+3171;West & Central Africa;hib3;2008;18
+3172;West & Central Africa;mcv1;2008;63
+3173;West & Central Africa;mcv2;2008;0
+3174;West & Central Africa;pcv3;2008;0
+3175;West & Central Africa;pol3;2008;67
+3176;West & Central Africa;rcv1;2008;0
+3177;West & Central Africa;rotac;2008;0
+3178;West & Central Africa;yfv;2008;58
+3179;West & Central Africa;bcg;2009;83
+3180;West & Central Africa;dtp1;2009;80
+3181;West & Central Africa;dtp3;2009;70
+3182;West & Central Africa;hepb3;2009;70
+3183;West & Central Africa;hepbb;2009;0
+3184;West & Central Africa;hib3;2009;45
+3185;West & Central Africa;mcv1;2009;69
+3186;West & Central Africa;mcv2;2009;0
+3187;West & Central Africa;pcv3;2009;0
+3188;West & Central Africa;pol3;2009;72
+3189;West & Central Africa;rcv1;2009;0
+3190;West & Central Africa;rotac;2009;0
+3191;West & Central Africa;yfv;2009;68
+3192;West & Central Africa;bcg;2010;77
+3193;West & Central Africa;dtp1;2010;74
+3194;West & Central Africa;dtp3;2010;65
+3195;West & Central Africa;hepb3;2010;63
+3196;West & Central Africa;hepbb;2010;0
+3197;West & Central Africa;hib3;2010;45
+3198;West & Central Africa;mcv1;2010;67
+3199;West & Central Africa;mcv2;2010;0
+3200;West & Central Africa;pcv3;2010;0
+3201;West & Central Africa;pol3;2010;68
+3202;West & Central Africa;rcv1;2010;0
+3203;West & Central Africa;rotac;2010;0
+3204;West & Central Africa;yfv;2010;62
+3205;West & Central Africa;bcg;2011;70
+3206;West & Central Africa;dtp1;2011;74
+3207;West & Central Africa;dtp3;2011;64
+3208;West & Central Africa;hepb3;2011;63
+3209;West & Central Africa;hepbb;2011;0
+3210;West & Central Africa;hib3;2011;46
+3211;West & Central Africa;mcv1;2011;64
+3212;West & Central Africa;mcv2;2011;0
+3213;West & Central Africa;pcv3;2011;7
+3214;West & Central Africa;pol3;2011;63
+3215;West & Central Africa;rcv1;2011;0
+3216;West & Central Africa;rotac;2011;0
+3217;West & Central Africa;yfv;2011;53
+3218;West & Central Africa;bcg;2012;73
+3219;West & Central Africa;dtp1;2012;72
+3220;West & Central Africa;dtp3;2012;63
+3221;West & Central Africa;hepb3;2012;63
+3222;West & Central Africa;hepbb;2012;0
+3223;West & Central Africa;hib3;2012;51
+3224;West & Central Africa;mcv1;2012;62
+3225;West & Central Africa;mcv2;2012;3
+3226;West & Central Africa;pcv3;2012;14
+3227;West & Central Africa;pol3;2012;64
+3228;West & Central Africa;rcv1;2012;0
+3229;West & Central Africa;rotac;2012;2
+3230;West & Central Africa;yfv;2012;52
+3231;West & Central Africa;bcg;2013;69
+3232;West & Central Africa;dtp1;2013;71
+3233;West & Central Africa;dtp3;2013;63
+3234;West & Central Africa;hepb3;2013;63
+3235;West & Central Africa;hepbb;2013;0
+3236;West & Central Africa;hib3;2013;57
+3237;West & Central Africa;mcv1;2013;62
+3238;West & Central Africa;mcv2;2013;3
+3239;West & Central Africa;pcv3;2013;20
+3240;West & Central Africa;pol3;2013;63
+3241;West & Central Africa;rcv1;2013;7
+3242;West & Central Africa;rotac;2013;4
+3243;West & Central Africa;yfv;2013;60
+3244;West & Central Africa;bcg;2014;70
+3245;West & Central Africa;dtp1;2014;71
+3246;West & Central Africa;dtp3;2014;64
+3247;West & Central Africa;hepb3;2014;64
+3248;West & Central Africa;hepbb;2014;0
+3249;West & Central Africa;hib3;2014;64
+3250;West & Central Africa;mcv1;2014;62
+3251;West & Central Africa;mcv2;2014;5
+3252;West & Central Africa;pcv3;2014;34
+3253;West & Central Africa;pol3;2014;66
+3254;West & Central Africa;rcv1;2014;7
+3255;West & Central Africa;rotac;2014;14
+3256;West & Central Africa;yfv;2014;60
+3257;West & Central Africa;bcg;2015;73
+3258;West & Central Africa;dtp1;2015;74
+3259;West & Central Africa;dtp3;2015;65
+3260;West & Central Africa;hepb3;2015;64
+3261;West & Central Africa;hepbb;2015;0
+3262;West & Central Africa;hib3;2015;64
+3263;West & Central Africa;ipv1;2015;32
+3264;West & Central Africa;mcv1;2015;63
+3265;West & Central Africa;mcv2;2015;9
+3266;West & Central Africa;pcv3;2015;55
+3267;West & Central Africa;pol3;2015;63
+3268;West & Central Africa;rcv1;2015;9
+3269;West & Central Africa;rotac;2015;21
+3270;West & Central Africa;yfv;2015;58
+3271;West & Central Africa;bcg;2016;74
+3272;West & Central Africa;dtp1;2016;79
+3273;West & Central Africa;dtp3;2016;70
+3274;West & Central Africa;hepb3;2016;70
+3275;West & Central Africa;hepbb;2016;2
+3276;West & Central Africa;hib3;2016;70
+3277;West & Central Africa;ipv1;2016;50
+3278;West & Central Africa;mcv1;2016;71
+3279;West & Central Africa;mcv2;2016;11
+3280;West & Central Africa;pcv3;2016;66
+3281;West & Central Africa;pol3;2016;69
+3282;West & Central Africa;rcv1;2016;10
+3283;West & Central Africa;rotac;2016;25
+3284;West & Central Africa;yfv;2016;66
+3285;West & Central Africa;bcg;2017;73
+3286;West & Central Africa;dtp1;2017;80
+3287;West & Central Africa;dtp3;2017;71
+3288;West & Central Africa;hepb3;2017;71
+3289;West & Central Africa;hepbb;2017;2
+3290;West & Central Africa;hib3;2017;71
+3291;West & Central Africa;ipv1;2017;49
+3292;West & Central Africa;mcv1;2017;72
+3293;West & Central Africa;mcv2;2017;12
+3294;West & Central Africa;pcv3;2017;68
+3295;West & Central Africa;pol3;2017;70
+3296;West & Central Africa;rcv1;2017;14
+3297;West & Central Africa;rotac;2017;28
+3298;West & Central Africa;yfv;2017;68
+3299;West & Central Africa;bcg;2018;73
+3300;West & Central Africa;dtp1;2018;79
+3301;West & Central Africa;dtp3;2018;70
+3302;West & Central Africa;hepb3;2018;70
+3303;West & Central Africa;hepbb;2018;2
+3304;West & Central Africa;hib3;2018;70
+3305;West & Central Africa;ipv1;2018;63
+3306;West & Central Africa;mcv1;2018;71
+3307;West & Central Africa;mcv2;2018;12
+3308;West & Central Africa;pcv3;2018;67
+3309;West & Central Africa;pol3;2018;70
+3310;West & Central Africa;rcv1;2018;19
+3311;West & Central Africa;rotac;2018;28
+3312;West & Central Africa;yfv;2018;71
+3313;Western Europe;bcg;1980;57
+3314;Western Europe;dtp1;1980;53
+3315;Western Europe;dtp3;1980;46
+3316;Western Europe;mcv1;1980;31
+3317;Western Europe;pol3;1980;62
+3318;Western Europe;rcv1;1980;10
+3319;Western Europe;bcg;1981;61
+3320;Western Europe;dtp1;1981;69
+3321;Western Europe;dtp3;1981;62
+3322;Western Europe;mcv1;1981;38
+3323;Western Europe;pol3;1981;65
+3324;Western Europe;rcv1;1981;12
+3325;Western Europe;bcg;1982;61
+3326;Western Europe;dtp1;1982;71
+3327;Western Europe;dtp3;1982;64
+3328;Western Europe;mcv1;1982;41
+3329;Western Europe;pol3;1982;67
+3330;Western Europe;rcv1;1982;16
+3331;Western Europe;bcg;1983;63
+3332;Western Europe;dtp1;1983;72
+3333;Western Europe;dtp3;1983;66
+3334;Western Europe;mcv1;1983;46
+3335;Western Europe;pol3;1983;80
+3336;Western Europe;rcv1;1983;21
+3337;Western Europe;bcg;1984;67
+3338;Western Europe;dtp1;1984;82
+3339;Western Europe;dtp3;1984;76
+3340;Western Europe;mcv1;1984;53
+3341;Western Europe;pol3;1984;88
+3342;Western Europe;rcv1;1984;27
+3343;Western Europe;bcg;1985;65
+3344;Western Europe;dtp1;1985;81
+3345;Western Europe;dtp3;1985;73
+3346;Western Europe;hepb3;1985;0
+3347;Western Europe;mcv1;1985;57
+3348;Western Europe;pol3;1985;88
+3349;Western Europe;rcv1;1985;34
+3350;Western Europe;bcg;1986;65
+3351;Western Europe;dtp1;1986;84
+3352;Western Europe;dtp3;1986;78
+3353;Western Europe;hepb3;1986;0
+3354;Western Europe;mcv1;1986;63
+3355;Western Europe;pol3;1986;91
+3356;Western Europe;rcv1;1986;37
+3357;Western Europe;bcg;1987;63
+3358;Western Europe;dtp1;1987;84
+3359;Western Europe;dtp3;1987;75
+3360;Western Europe;hepb3;1987;0
+3361;Western Europe;mcv1;1987;67
+3362;Western Europe;pol3;1987;88
+3363;Western Europe;rcv1;1987;39
+3364;Western Europe;bcg;1988;64
+3365;Western Europe;dtp1;1988;84
+3366;Western Europe;dtp3;1988;75
+3367;Western Europe;hepb3;1988;0
+3368;Western Europe;mcv1;1988;69
+3369;Western Europe;pol3;1988;88
+3370;Western Europe;rcv1;1988;53
+3371;Western Europe;bcg;1989;63
+3372;Western Europe;dtp1;1989;85
+3373;Western Europe;dtp3;1989;78
+3374;Western Europe;hepb3;1989;0
+3375;Western Europe;mcv1;1989;72
+3376;Western Europe;pol3;1989;88
+3377;Western Europe;rcv1;1989;58
+3378;Western Europe;bcg;1990;63
+3379;Western Europe;dtp1;1990;95
+3380;Western Europe;dtp3;1990;87
+3381;Western Europe;hepb3;1990;0
+3382;Western Europe;hib3;1990;0
+3383;Western Europe;mcv1;1990;80
+3384;Western Europe;pol3;1990;92
+3385;Western Europe;rcv1;1990;66
+3386;Western Europe;bcg;1991;63
+3387;Western Europe;dtp1;1991;96
+3388;Western Europe;dtp3;1991;90
+3389;Western Europe;hepb3;1991;11
+3390;Western Europe;hib3;1991;11
+3391;Western Europe;mcv1;1991;80
+3392;Western Europe;pol3;1991;92
+3393;Western Europe;rcv1;1991;78
+3394;Western Europe;bcg;1992;63
+3395;Western Europe;dtp1;1992;96
+3396;Western Europe;dtp3;1992;91
+3397;Western Europe;hepb3;1992;11
+3398;Western Europe;hib3;1992;15
+3399;Western Europe;mcv1;1992;81
+3400;Western Europe;pol3;1992;92
+3401;Western Europe;rcv1;1992;79
+3402;Western Europe;bcg;1993;64
+3403;Western Europe;dtp1;1993;94
+3404;Western Europe;dtp3;1993;87
+3405;Western Europe;hepb3;1993;12
+3406;Western Europe;hib3;1993;30
+3407;Western Europe;mcv1;1993;83
+3408;Western Europe;pol3;1993;93
+3409;Western Europe;rcv1;1993;81
+3410;Western Europe;bcg;1994;66
+3411;Western Europe;dtp1;1994;96
+3412;Western Europe;dtp3;1994;91
+3413;Western Europe;hepb3;1994;15
+3414;Western Europe;hib3;1994;31
+3415;Western Europe;mcv1;1994;84
+3416;Western Europe;pol3;1994;95
+3417;Western Europe;rcv1;1994;83
+3418;Western Europe;bcg;1995;87
+3419;Western Europe;dtp1;1995;97
+3420;Western Europe;dtp3;1995;92
+3421;Western Europe;hepb3;1995;20
+3422;Western Europe;hib3;1995;32
+3423;Western Europe;mcv1;1995;85
+3424;Western Europe;pol3;1995;95
+3425;Western Europe;rcv1;1995;85
+3426;Western Europe;bcg;1996;86
+3427;Western Europe;dtp1;1996;97
+3428;Western Europe;dtp3;1996;93
+3429;Western Europe;hepb3;1996;31
+3430;Western Europe;hib3;1996;34
+3431;Western Europe;mcv1;1996;87
+3432;Western Europe;pol3;1996;96
+3433;Western Europe;rcv1;1996;87
+3434;Western Europe;bcg;1997;86
+3435;Western Europe;dtp1;1997;97
+3436;Western Europe;dtp3;1997;93
+3437;Western Europe;hepb3;1997;38
+3438;Western Europe;hib3;1997;39
+3439;Western Europe;mcv1;1997;87
+3440;Western Europe;pol3;1997;95
+3441;Western Europe;rcv1;1997;87
+3442;Western Europe;bcg;1998;85
+3443;Western Europe;dtp1;1998;97
+3444;Western Europe;dtp3;1998;93
+3445;Western Europe;hepb3;1998;46
+3446;Western Europe;hib3;1998;62
+3447;Western Europe;mcv1;1998;86
+3448;Western Europe;pol3;1998;95
+3449;Western Europe;rcv1;1998;86
+3450;Western Europe;bcg;1999;86
+3451;Western Europe;dtp1;1999;98
+3452;Western Europe;dtp3;1999;95
+3453;Western Europe;hepb3;1999;47
+3454;Western Europe;hib3;1999;68
+3455;Western Europe;mcv1;1999;88
+3456;Western Europe;pol3;1999;95
+3457;Western Europe;rcv1;1999;88
+3458;Western Europe;bcg;2000;86
+3459;Western Europe;dtp1;2000;97
+3460;Western Europe;dtp3;2000;93
+3461;Western Europe;hepb3;2000;49
+3462;Western Europe;hepbb;2000;10
+3463;Western Europe;hib3;2000;76
+3464;Western Europe;mcv1;2000;88
+3465;Western Europe;mcv2;2000;31
+3466;Western Europe;pol3;2000;95
+3467;Western Europe;rcv1;2000;88
+3468;Western Europe;bcg;2001;86
+3469;Western Europe;dtp1;2001;98
+3470;Western Europe;dtp3;2001;95
+3471;Western Europe;hepb3;2001;50
+3472;Western Europe;hepbb;2001;10
+3473;Western Europe;hib3;2001;79
+3474;Western Europe;mcv1;2001;89
+3475;Western Europe;mcv2;2001;34
+3476;Western Europe;pol3;2001;95
+3477;Western Europe;rcv1;2001;89
+3478;Western Europe;bcg;2002;86
+3479;Western Europe;dtp1;2002;98
+3480;Western Europe;dtp3;2002;95
+3481;Western Europe;hepb3;2002;53
+3482;Western Europe;hepbb;2002;10
+3483;Western Europe;hib3;2002;83
+3484;Western Europe;mcv1;2002;90
+3485;Western Europe;mcv2;2002;49
+3486;Western Europe;pol3;2002;96
+3487;Western Europe;rcv1;2002;90
+3488;Western Europe;bcg;2003;85
+3489;Western Europe;dtp1;2003;98
+3490;Western Europe;dtp3;2003;96
+3491;Western Europe;hepb3;2003;54
+3492;Western Europe;hepbb;2003;10
+3493;Western Europe;hib3;2003;84
+3494;Western Europe;mcv1;2003;90
+3495;Western Europe;mcv2;2003;50
+3496;Western Europe;pol3;2003;96
+3497;Western Europe;rcv1;2003;90
+3498;Western Europe;bcg;2004;84
+3499;Western Europe;dtp1;2004;98
+3500;Western Europe;dtp3;2004;96
+3501;Western Europe;hepb3;2004;57
+3502;Western Europe;hepbb;2004;10
+3503;Western Europe;hib3;2004;87
+3504;Western Europe;mcv1;2004;91
+3505;Western Europe;mcv2;2004;58
+3506;Western Europe;pol3;2004;96
+3507;Western Europe;rcv1;2004;91
+3508;Western Europe;bcg;2005;83
+3509;Western Europe;dtp1;2005;98
+3510;Western Europe;dtp3;2005;95
+3511;Western Europe;hepb3;2005;57
+3512;Western Europe;hepbb;2005;10
+3513;Western Europe;hib3;2005;88
+3514;Western Europe;mcv1;2005;91
+3515;Western Europe;mcv2;2005;58
+3516;Western Europe;pol3;2005;96
+3517;Western Europe;rcv1;2005;91
+3518;Western Europe;bcg;2006;84
+3519;Western Europe;dtp1;2006;98
+3520;Western Europe;dtp3;2006;96
+3521;Western Europe;hepb3;2006;58
+3522;Western Europe;hepbb;2006;10
+3523;Western Europe;hib3;2006;90
+3524;Western Europe;mcv1;2006;92
+3525;Western Europe;mcv2;2006;61
+3526;Western Europe;pol3;2006;96
+3527;Western Europe;rcv1;2006;92
+3528;Western Europe;rotac;2006;0
+3529;Western Europe;bcg;2007;81
+3530;Western Europe;dtp1;2007;98
+3531;Western Europe;dtp3;2007;96
+3532;Western Europe;hepb3;2007;58
+3533;Western Europe;hepbb;2007;10
+3534;Western Europe;hib3;2007;94
+3535;Western Europe;mcv1;2007;93
+3536;Western Europe;mcv2;2007;62
+3537;Western Europe;pol3;2007;96
+3538;Western Europe;rcv1;2007;93
+3539;Western Europe;rotac;2007;0
+3540;Western Europe;bcg;2008;84
+3541;Western Europe;dtp1;2008;98
+3542;Western Europe;dtp3;2008;96
+3543;Western Europe;hepb3;2008;59
+3544;Western Europe;hepbb;2008;10
+3545;Western Europe;hib3;2008;95
+3546;Western Europe;mcv1;2008;93
+3547;Western Europe;mcv2;2008;62
+3548;Western Europe;pcv3;2008;18
+3549;Western Europe;pol3;2008;96
+3550;Western Europe;rcv1;2008;93
+3551;Western Europe;rotac;2008;1
+3552;Western Europe;bcg;2009;83
+3553;Western Europe;dtp1;2009;98
+3554;Western Europe;dtp3;2009;96
+3555;Western Europe;hepb3;2009;59
+3556;Western Europe;hepbb;2009;10
+3557;Western Europe;hib3;2009;95
+3558;Western Europe;mcv1;2009;93
+3559;Western Europe;mcv2;2009;62
+3560;Western Europe;pcv3;2009;27
+3561;Western Europe;pol3;2009;96
+3562;Western Europe;rcv1;2009;93
+3563;Western Europe;rotac;2009;1
+3564;Western Europe;bcg;2010;81
+3565;Western Europe;dtp1;2010;98
+3566;Western Europe;dtp3;2010;97
+3567;Western Europe;hepb3;2010;62
+3568;Western Europe;hepbb;2010;10
+3569;Western Europe;hib3;2010;95
+3570;Western Europe;mcv1;2010;93
+3571;Western Europe;mcv2;2010;73
+3572;Western Europe;pcv3;2010;58
+3573;Western Europe;pol3;2010;96
+3574;Western Europe;rcv1;2010;93
+3575;Western Europe;rotac;2010;2
+3576;Western Europe;bcg;2011;82
+3577;Western Europe;dtp1;2011;98
+3578;Western Europe;dtp3;2011;97
+3579;Western Europe;hepb3;2011;65
+3580;Western Europe;hepbb;2011;10
+3581;Western Europe;hib3;2011;96
+3582;Western Europe;mcv1;2011;93
+3583;Western Europe;mcv2;2011;74
+3584;Western Europe;pcv3;2011;62
+3585;Western Europe;pol3;2011;96
+3586;Western Europe;rcv1;2011;93
+3587;Western Europe;rotac;2011;2
+3588;Western Europe;bcg;2012;82
+3589;Western Europe;dtp1;2012;99
+3590;Western Europe;dtp3;2012;97
+3591;Western Europe;hepb3;2012;66
+3592;Western Europe;hepbb;2012;9
+3593;Western Europe;hib3;2012;96
+3594;Western Europe;mcv1;2012;94
+3595;Western Europe;mcv2;2012;76
+3596;Western Europe;pcv3;2012;66
+3597;Western Europe;pol3;2012;96
+3598;Western Europe;rcv1;2012;94
+3599;Western Europe;rotac;2012;4
+3600;Western Europe;bcg;2013;78
+3601;Western Europe;dtp1;2013;98
+3602;Western Europe;dtp3;2013;96
+3603;Western Europe;hepb3;2013;67
+3604;Western Europe;hepbb;2013;9
+3605;Western Europe;hib3;2013;96
+3606;Western Europe;mcv1;2013;94
+3607;Western Europe;mcv2;2013;85
+3608;Western Europe;pcv3;2013;67
+3609;Western Europe;pol3;2013;96
+3610;Western Europe;rcv1;2013;94
+3611;Western Europe;rotac;2013;4
+3612;Western Europe;bcg;2014;77
+3613;Western Europe;dtp1;2014;98
+3614;Western Europe;dtp3;2014;96
+3615;Western Europe;hepb3;2014;69
+3616;Western Europe;hepbb;2014;9
+3617;Western Europe;hib3;2014;96
+3618;Western Europe;mcv1;2014;94
+3619;Western Europe;mcv2;2014;86
+3620;Western Europe;pcv3;2014;68
+3621;Western Europe;pol3;2014;96
+3622;Western Europe;rcv1;2014;94
+3623;Western Europe;rotac;2014;14
+3624;Western Europe;bcg;2015;71
+3625;Western Europe;dtp1;2015;98
+3626;Western Europe;dtp3;2015;96
+3627;Western Europe;hepb3;2015;70
+3628;Western Europe;hepbb;2015;9
+3629;Western Europe;hib3;2015;95
+3630;Western Europe;mcv1;2015;94
+3631;Western Europe;mcv2;2015;86
+3632;Western Europe;pcv3;2015;69
+3633;Western Europe;pol3;2015;95
+3634;Western Europe;rcv1;2015;94
+3635;Western Europe;rotac;2015;30
+3636;Western Europe;bcg;2016;71
+3637;Western Europe;dtp1;2016;98
+3638;Western Europe;dtp3;2016;95
+3639;Western Europe;hepb3;2016;70
+3640;Western Europe;hepbb;2016;9
+3641;Western Europe;hib3;2016;95
+3642;Western Europe;mcv1;2016;94
+3643;Western Europe;mcv2;2016;87
+3644;Western Europe;pcv3;2016;71
+3645;Western Europe;pol3;2016;95
+3646;Western Europe;rcv1;2016;94
+3647;Western Europe;rotac;2016;30
+3648;Western Europe;bcg;2017;68
+3649;Western Europe;dtp1;2017;98
+3650;Western Europe;dtp3;2017;95
+3651;Western Europe;hepb3;2017;70
+3652;Western Europe;hepbb;2017;9
+3653;Western Europe;hib3;2017;94
+3654;Western Europe;mcv1;2017;94
+3655;Western Europe;mcv2;2017;88
+3656;Western Europe;pcv3;2017;80
+3657;Western Europe;pol3;2017;94
+3658;Western Europe;rcv1;2017;94
+3659;Western Europe;rotac;2017;33
+3660;Western Europe;bcg;2018;69
+3661;Western Europe;dtp1;2018;98
+3662;Western Europe;dtp3;2018;95
+3663;Western Europe;hepb3;2018;71
+3664;Western Europe;hepbb;2018;9
+3665;Western Europe;hib3;2018;94
+3666;Western Europe;mcv1;2018;94
+3667;Western Europe;mcv2;2018;88
+3668;Western Europe;pcv3;2018;84
+3669;Western Europe;pol3;2018;94
+3670;Western Europe;rcv1;2018;94
+3671;Western Europe;rotac;2018;35
